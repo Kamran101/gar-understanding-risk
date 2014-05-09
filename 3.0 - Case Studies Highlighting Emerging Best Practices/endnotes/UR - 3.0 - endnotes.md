@@ -1,23 +1,42 @@
 <sup>26</sup>See the institutions’ websites at www.codeforresilience.org and http://www.rhok.org/. 
+
 <sup>27</sup>Parts of this paper also appear in Soden, Budhathoki, and Palen (2014). 
+
 <sup>28</sup>In the 20th century alone, over 11,000 people lost their lives to earthquakes in Nepal. The 1934 Bihar-Nepal earthquake destroyed 20 percent of Kathmandu’s building stock and damaged 40 percent. Geohazards International, "Kathnandu Valley Earthquake Risk Management," http://geohaz.org/projects/kathmandu.html.
+
 <sup>29</sup>Funding for this research is provided by the Global Facility for Disaster Reduction and Recovery. For more information on VGI, see http://crowdgov.wordpress.com/.
+
 <sup>30</sup>This opinion is attributed to Schulyer Erle in Tim Waters, “OpenStreetMap Project & Haiti Earthquake Case Study, slide presentation, 2010, http://pt.slideshare.net/chippy/openstreetmap-case-study-haiti-crisis-response.
+
 <sup>31</sup>Tim Waters, “OpenStreetMap Project & Haiti Earthquake Case Study, slide presentation, 2010, http://pt.slideshare.net/chippy/openstreetmap-case-study-haiti-crisis-response.
-<sup>32</sup>This point was made by Jeffrey Johnson, Where 2.0 conference, March 30–April 1, 2010, San Jose, CA, 
-http://hot.openstreetmap.org/updates/2013-12-17_imagery_for_haiyan.
+
+<sup>32</sup>This point was made by Jeffrey Johnson, Where 2.0 conference, March 30–April 1, 2010, San Jose, CA, http://hot.openstreetmap.org/updates/2013-12-17_imagery_for_haiyan.
+
 <sup>33</sup>Geoscience Australia holds a Creative Commons Attribution 3.0 Australia license for the material in this section. All terms of the license apply for reuse of text and graphics. Jones, Van Putten, and Jakab publish with the permission of the CEO, Geoscience Australia.
+
 <sup>34</sup>GMMA RAP was a component of BRACE (Building the Resilience and Awareness of Metro Manila Communities to Natural Disaster and Climate Change Impacts), an Australian aid program in the Philippines initiated in 2010 that sought to reduce the vulnerability and enhance the resilience of Metro Manila and selected neighboring areas to the impacts of natural disasters and climate change. As a component of the BRACE program, GMMA RAP is also known as the Enhancing Risk Analysis Capacities for Flood, Tropical Cyclone Severe Wind, and Earthquake for Greater Metro Manila Area program.
+
 <sup>35</sup>This project was the joint Geoscience Australia/PHIVOLCS (Philippine Institute of Volcanology and Seismology) pilot study of earthquake risk in Iloilo City, in the Western Visayas region of the Philippines (see Bautista et al. 2012). 
+
 <sup>36</sup>For more information, see Geoscience Australia, “New Building Assessment Tool Supports Better Risk Analysis,” February 12, 2014, http://www.ga.gov.au/about-us/news-media/news-2014/new-building-assessment-tool-supports-better-risk-analysis.html.
+
 <sup>37</sup>This paper draws in part on Petiteville, Bally, and Seguin (2012).
+
 <sup>38</sup>Institutions include the Arab Centre for the Studies of Arid Zones and Drylands, Beijing Normal University, Centro Internazionale in Monitoraggio Ambientale (CIMA) Foundation, Geoscience Australia, Global Volcano Model, Joint Research Centre of the European Commission, Kokusai Kogyo, the Norwegian Geotechnical Institute, International Centre for Numerical Methods in Engineering (CIMNE), University of Geneva, Famine Early Warning Systems Network (FEWS-NET), Global Earthquake Model Foundation, the United Nations Environment Programme–Global Resource Information Database (UNEP-GRID), and the World Agency for Planetary Monitoring and Earthquake Risk Reduction (WAPMEER).
+
 <sup>39</sup>For more detail on these products, see “Global Earthquake Model” in part III.
+
 <sup>40</sup>The full technical description of the approach can be found in Herold and Rudari (2013).  
+
 <sup>41</sup>Two publications are planned under this effort: “Probabilistic Volcanic Ash Hazard Analysis (PVAHA) I: Adapting a Seismologically Based Technique for Regional Scale Volcanic Ash Hazard Assessment,” by A. N. Bear-Crozier and colleagues; and “Probabilistic Volcanic Ash Hazard Assessment (PVAHA) II: Asia-Pacific Modelling Results,” by Victoria Miller and colleagues.
+
 <sup>42</sup>The International Centre for Water Hazard and Risk Management (ICHARM) operates under the auspices of UNESCO and the Public Works Research Institute, Japan. The authors would like to express their sincere appreciation to the following for their valuable inputs: Dr. Satoru Nishikawa (special representative of the Secretary-General for DRR on the Post-2015 Framework for DRR and the Global Platform); Mr. Yusuke Amano (Water and Disaster Management Bureau, Japan); and Dr. Yuki Matsuoka (UNISDR Hyogo Office). We are also indebted to the Philippine Atmospheric, Geophysical and Astronomical Services Administration and the Asian Disaster Preparedness Center for providing their data and comments.
+
 <sup>43</sup>For the sake of brevity, the discussion here will focus on the risk of fatality-causing floods.
+
 <sup>44</sup>Such a conceptual approach uses hazard, exposure, and vulnerability indices to assign data to various categories. For each category, a score is derived by arithmetic computations, such as by using the weighted rank sum method. A conceptual risk index is finally presented on a 0 to 1 scale by summing the scores.
+
 <sup>45</sup>Only the effectiveness of the levee with respect to overflow is considered. Breaching of levees is not considered in this analysis. This may underestimate the calculated inundation extend and the water depths of the flood when levees are included in the calculation.
+
 <sup>46</sup>Geoscience Australia holds a Creative Commons Attribution 3.0 Australia license for the material in this section. All terms of the license apply for reuse of text and graphics. Jones, Griffin, Robinson, and Cummins publish with the permission of the CEO, Geoscience Australia.
- The authors gratefully acknowledge Guy Janssen, whose independent review of the Indonesian Earthquake Hazard Project identified and articulated many of the factors for success discussed in this paper.
+The authors gratefully acknowledge Guy Janssen, whose independent review of the Indonesian Earthquake Hazard Project identified and articulated many of the factors for success discussed in this paper.
