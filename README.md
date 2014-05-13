@@ -66,11 +66,11 @@ And so forth through Level 6
 
 ###Stylistic Elements (Body text ONLY)
 
-Some items in the text will need to be bolded and italicised. In order to *BOLD* or __Italicise__ and item, you will need to wrap the text that requires this treatment as follows:
+Some items in the text will need to be bolded and italicised. In order to **BOLD** or _Italicise_ and item, you will need to wrap the text that requires this treatment as follows:
 
 ```
-*BOLD*
-__Italicise__
+**BOLD**
+_Italicise_
 ```
 
 ###Lists (Ordered & Unordered)
@@ -84,6 +84,7 @@ Listed elements will can be denoted as follows:
 +   Item 3
 ```
 Will return:
+
 +   Item 1
 +   Item 2
 +   Item 3
@@ -95,9 +96,25 @@ Will return:
 3.  Item 3
 ```
 Will return:
+
 1.  Item 1
 2.  Item 2
-3.  Item 3  
+3.  Item 3
+
+###Superscripts & Subscripts
+Wrap all superscripts as follows:
+```
+<sup>Superscripted</sup>
+```
+
+Wrap all subscripts as follows:
+```
+<sub>Superscripted</sub>
+```
+_Take note of the "/" in the second item_
+
+###Additional Reading
+Additional information can be found at [http://daringfireball.net/projects/markdown/basics](http://daringfireball.net/projects/markdown/basics)
 
 ## <a name="figures"><a/>Managing Figures & Images
 
