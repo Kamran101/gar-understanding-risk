@@ -47,7 +47,7 @@ Within the black code window, you can use the **CTRL+F** command for Windows or 
 
 ## <a name="markdown"><a/>Markdown Format
 
-In order to make the files editable through Indesign, the text had to be stripped out of MS Word's stylistic additions and formatting. Indesign assigns styles to text based on utility which is what this format does.
+In order to make the files editable through Indesign, the text had to be stripped out of MS Word's stylistic additions and formatting. Indesign assigns styles to text based on utility which is what this format does. Any formatting of text that is not included below will need to be requested.
 
 ###Headings
 
@@ -109,7 +109,7 @@ Wrap all superscripts as follows:
 
 Wrap all subscripts as follows:
 ```
-<sub>Superscripted</sub>
+<sub>Subscripted</sub>
 ```
 _Take note of the "/" in the second item_
 
