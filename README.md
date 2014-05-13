@@ -31,19 +31,19 @@ The folders in this repository are structured in a way to make merging documents
 
 To make edits to the documents, navigate through the repository above and click through the chapter name and to the document that needs editing. Once you click on the document you would like to edit you will see on the top right hand corner a panel of options where one reads "Edit." Click on "Edit" to make modifications to the document.
 
-<img src="/_assets/readme/readme_figure_02.png" title="Edit" />
+<img src="/_assets/readme/readme_figure_02.png" title="Edit" width="350px" />
 
 You can work in full screen mode to make editing clearer and using bigger fonts. 
 
-<img src="/_assets/readme/readme_figure_03.png" title="Full Screen" />
+<img src="/_assets/readme/readme_figure_03.png" title="Full Screen" width="250px" />
 
 To exit out of the full screen mode, click the *Exit Zen Mode* button on the top right hand corner.
 
-<img src="/_assets/readme/readme_figure_04.png" title="Exit Full Screen" />
+<img src="/_assets/readme/readme_figure_04.png" title="Exit Full Screen" width="250px" />
 
 Within the black code window, you can use the **CTRL+F** command for Windows or **⌘+F** command for Windows to Search within the document.
 
-<img src="/_assets/readme/readme_figure_05.png" title="Search" />
+<img src="/_assets/readme/readme_figure_05.png" title="Search" width="350px" />
 
 ## <a name="markdown"><a/>Markdown Format
 
