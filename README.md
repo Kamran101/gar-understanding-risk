@@ -39,11 +39,11 @@ You can work in full screen mode to make editing clearer and using bigger fonts.
 
 To exit out of the full screen mode, click the *Exit Zen Mode* button on the top right hand corner.
 
-<img src="/_assets/readme/readme_figure_04.png" title="Exit Full Screen" width="250px" />
+<img src="/_assets/readme/readme_figure_04.png" title="Exit Full Screen" width="150px" />
 
 Within the black code window, you can use the **CTRL+F** command for Windows or **⌘+F** command for Windows to Search within the document.
 
-<img src="/_assets/readme/readme_figure_05.png" title="Search" width="350px" />
+<img src="/_assets/readme/readme_figure_05.png" title="Search" width="450px" />
 
 ## <a name="markdown"><a/>Markdown Format
 
@@ -63,6 +63,41 @@ At this time, only three heading levels are selected to appear in the Table of C
 
 And so forth through Level 6
 ```
+
+###Stylistic Elements (Body text ONLY)
+
+Some items in the text will need to be bolded and italicised. In order to *BOLD* or __Italicise__ and item, you will need to wrap the text that requires this treatment as follows:
+
+```
+*BOLD*
+__Italicise__
+```
+
+###Lists (Ordered & Unordered)
+
+Listed elements will can be denoted as follows:
+
+####Unordered Lists
+```
++   Item 1
++   Item 2
++   Item 3
+```
+Will return:
++   Item 1
++   Item 2
++   Item 3
+
+####Ordered Lists
+```
+1.  Item 1
+2.  Item 2
+3.  Item 3
+```
+Will return:
+1.  Item 1
+2.  Item 2
+3.  Item 3  
 
 ## <a name="figures"><a/>Managing Figures & Images
 
