@@ -6,18 +6,33 @@ Repository for Understanding Risk GAR 15
 
 ##Table of Contents
 
-1.  Summary
-2.  Folder Structure
-3.  Making Edits
-4.  Markdown Format
-5.  Managing Figures & Images
-6.  Managing Tables
-7.  Committing Changes
-8.  Creating a New File
-9.  Notes & Comments
+1.  [Summary](#summary)
+2.  [Folder Structure](#folder-structure)
+3.  [Making Edits](#edits)
+4.  [Markdown Format](#markdown)
+5.  [Managing Figures & Images](#figures)
+6.  [Managing Tables](#tables)
+7.  [Committing Changes](#commit)
+8.  [Creating a New File](#new-file)
+9.  [Notes & Comments](#notes)
 
 
-##Summary
+## <a name="summary"><a/>Summary
 
 The purpose of this document is to provide instruction and information into the structure and management of the GAR Reports.
 
+## <a name="folder-structure"><a/>Folder Structure
+
+## <a name="edits"><a/>Making Edits
+
+## <a name="markdown"><a/>Markdown Format
+
+## <a name="figures"><a/>Managing Figures & Images
+
+## <a name="tables"><a/>Managing Tables
+
+## <a name="commit"><a/>Committing Changes
+
+## <a name="new-file"><a/>Creating a New File
+
+## <a name="notes"><a/>Notes & Comments
