@@ -29,7 +29,40 @@ The folders in this repository are structured in a way to make merging documents
 
 ## <a name="edits"><a/>Making Edits
 
+To make edits to the documents, navigate through the repository above and click through the chapter name and to the document that needs editing. Once you click on the document you would like to edit you will see on the top right hand corner a panel of options where one reads "Edit." Click on "Edit" to make modifications to the document.
+
+<img src="/_assets/readme/readme_figure_02.png" title="Edit" />
+
+You can work in full screen mode to make editing clearer and using bigger fonts. 
+
+<img src="/_assets/readme/readme_figure_03.png" title="Full Screen" />
+
+To exit out of the full screen mode, click the *Exit Zen Mode* button on the top right hand corner.
+
+<img src="/_assets/readme/readme_figure_04.png" title="Exit Full Screen" />
+
+Within the black code window, you can use the **CTRL+F** command for Windows or **⌘+F** command for Windows to Search within the document.
+
+<img src="/_assets/readme/readme_figure_05.png" title="Search" />
+
 ## <a name="markdown"><a/>Markdown Format
+
+In order to make the files editable through Indesign, the text had to be stripped out of MS Word's stylistic additions and formatting. Indesign assigns styles to text based on utility which is what this format does.
+
+###Headings
+
+All headings must be separated and removed from the body text in all situations. This will allow for dynamic cross linking, consistent styling of all headings and a clear hierarchy. Under no circumstances can a Heading be simply bolded or underlined, this will mean the Heading will not show up on the Table of Contents.
+
+At this time, only three heading levels are selected to appear in the Table of Contents. Headings are denoted by placing "#" before the heading title. The more "#", the less important the heading:
+
+```
+#Heading Level 1    = Title of the Chapter
+##Heading Level 2   = Major Chapter Section
+###Heading Level 3  = Sub Heading
+####Heading Level 4 = Minor Heading not in TOC
+
+And so forth through Level 6
+```
 
 ## <a name="figures"><a/>Managing Figures & Images
 
