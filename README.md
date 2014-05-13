@@ -14,6 +14,7 @@ Repository for Understanding Risk GAR 15
 6.  [Committing Changes](#commit)
 7.  [Issues & Requests](#issues)
 8.  [Notes & Comments](#notes)
+9.  [Further Information](#further)
 
 
 ## <a name="summary"><a/>Summary
@@ -154,6 +155,6 @@ When leaving a comment for typesetting, find the closest title area in the notes
 
 In some cases, it might be better to leave comments for typesetting as an issue request (see above) if the comment is broad spanning for the entire document, or if the issue might be hard to describe without referencing the original text. In this case, a screenshot and page number of the original document might be helpful. Please do not leave any comments in the body text file.
 
-##Further Information
+## <a name="further"><a/>Further Information
 
 Any questions or general queries / issues with the process not to do with the document itself should be directed to the project administrator. A training session is available at request.
