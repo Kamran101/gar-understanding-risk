@@ -10,11 +10,10 @@ Repository for Understanding Risk GAR 15
 2.  [Folder Structure](#folder-structure)
 3.  [Making Edits](#edits)
 4.  [Markdown Format](#markdown)
-5.  [Managing Figures & Images](#figures)
-6.  [Managing Tables](#tables)
-7.  [Committing Changes](#commit)
-8.  [Creating a New File](#new-file)
-9.  [Notes & Comments](#notes)
+5.  [Managing Figures, Images & Tables](#figures)
+6.  [Committing Changes](#commit)
+7.  [Issues & Requests](#issues)
+8.  [Notes & Comments](#notes)
 
 
 ## <a name="summary"><a/>Summary
@@ -116,12 +115,45 @@ _Take note of the "/" in the second item_
 ###Additional Reading
 Additional information can be found at [http://daringfireball.net/projects/markdown/basics](http://daringfireball.net/projects/markdown/basics)
 
-## <a name="figures"><a/>Managing Figures & Images
+## <a name="figures"><a/>Managing Figures, Images & Tables
 
-## <a name="tables"><a/>Managing Tables
+Figures, Images & Tables will be managed through the Shared Dropbox folder. When an image is ready for inclusion into the document it will be removed from the Dropbox folder and into the repository. You can notify us when a figure is ready (meaning that no more changes are expected, and all licenses and authorizations are acquired) using the <a name="issues">Issues & Requests</a> button described below. 
 
 ## <a name="commit"><a/>Committing Changes
 
-## <a name="new-file"><a/>Creating a New File
+Once you are finished with your changes, at the bottom of the page you will see a box that says *Commit Changes*. Type in your update and and additional information you would like to make and then click on the green *Commit Changes* button. Committing the file will update the site, the changes will be saved immediately.
+
+<img src="/_assets/readme/readme_figure_06.png" alt="Github Commit" />
+
+If there is an error, Github will inform you via email of through a pop up when you try to commit. Instructions to fix the error will be included in this message.
+
+## <a name="issues"><a/>Issues & Requests
+
+When requiring an update, change or notification for some aspect of the document, it will be best to use the _Issue_ function. Found on the top right hand corner of the repository page.
+
+<img src="/_assets/readme/readme_figure_07.png" alt="Issue Submit" />
+
+Once on the issue page, all pending issues and requests will be noted. You can add an issue or request by clicking on *"Create a new issue."*
+
+<img src="/_assets/readme/readme_figure_08.png" alt="Create a New Issue" />
+
+A pop up will show where you can write a short description of the issue and a more detailed description. It would be best to assign the Issue to who would be in charge of carrying out the request. You can also attach images, files or objects to the issue by dragging and dropping those attachments into the description field.
+
+<img src="/_assets/readme/readme_figure_09.png" alt="Submit Issue" />
+
+Once you are done, submit the issue and you will be notified when the issue or reuqestis completed.
 
 ## <a name="notes"><a/>Notes & Comments
+
+There may be times when there are certain notes and comments that need to be shared with the typesetter. A separate file in each chapter labelled "_notes_" is where all the typesetting notes and placements should be made. The file contains an outline of approximately where the document lays out specific elements including boxes and figures. All Headings, regardless if they appear in the TOC or now will appear there.
+
+When leaving a comment for typesetting, find the closest title area in the notes document and then underneath that section title enter the following to leave a note:
+```
+<comment>Your Comment Appears Here<comment>
+```
+
+In some cases, it might be better to leave comments for typesetting as an issue request (see above) if the comment is broad spanning for the entire document, or if the issue might be hard to describe without referencing the original text. In this case, a screenshot and page number of the original document might be helpful. Please do not leave any comments in the body text file.
+
+##Further Information
+
+Any questions or general queries / issues with the process not to do with the document itself should be directed to the project administrator. A training session is available at request.
