@@ -120,6 +120,8 @@ Additional information can be found at [http://daringfireball.net/projects/markd
 
 Figures, Images & Tables will be managed through the Shared Dropbox folder. When an image is ready for inclusion into the document it will be removed from the Dropbox folder and into the repository. You can notify us when a figure is ready (meaning that no more changes are expected, and all licenses and authorizations are acquired) using the <a name="issues">Issues & Requests</a> button described below. 
 
+Precedents -- <!ADD INFORMATION>
+
 ## <a name="commit"><a/>Committing Changes
 
 Once you are finished with your changes, at the bottom of the page you will see a box that says *Commit Changes*. Type in your update and and additional information you would like to make and then click on the green *Commit Changes* button. Committing the file will update the site, the changes will be saved immediately.
