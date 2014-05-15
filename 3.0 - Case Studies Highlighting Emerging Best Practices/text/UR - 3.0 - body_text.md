@@ -24,7 +24,7 @@ Box 18 offers an example of the collaborative effort possible under OpenDRI—sp
 
 [Box 18]
 
-#### Challenges remain. 
+#### Remaining challenges. 
 Many governments have worked with partners to aggregate and centralize some portion of the data that they generate through comprehensive stock takings. However, these efforts have often failed or faltered, generally because governments perceive that sharing data means giving up control over it and losing the opportunity to make money (or gain other benefits) from it. (The loss of revenue when data are shared is a concern not only for governments, but also for the small GIS consultancies that make a living selling their data to local, provincial, and national government officials.)
 
 Risk assessment and the need for data about potential disasters represent an easier entry point into discussions about open data than many other thematic areas (such as budget accountability), because there are often more champions where disasters are concerned, and it is easier to appeal to stakeholders’ altruism. This ongoing work is rarely easy or straightforward. Opening data for wider use can raise fears, create uncertainty, and break power structures that control data flows. For this reason, OpenDRI works to empower local champions and help them build a community of leaders to advance the principles of open data, which in turn contribute to making societies more resilient. An OpenDRI field guide (Crowley 2014), which captures the experiences and lessons learned over four years of implementation and provides a practical guide for other partners, was launched in March 2014. A case study of the local application of OpenDRI is given in the subsequent section on Open Cities. 
