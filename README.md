@@ -4,6 +4,8 @@ Last Updated: May 13, 2014
 
 Repository for Understanding Risk GAR 15
 
+Copyrighted Content ©
+
 ##Table of Contents
 
 1.  [Summary](#summary)
