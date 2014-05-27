@@ -1,0 +1,2 @@
+# Locations of GeoNodes supported by the World Bank and GFDRR.
+__Source__: World Bank and GFDRR.
