@@ -1,0 +1,10 @@
+### OpenStreetMap
+
+OpenStreetMap, often called “the Wikipedia of maps,” is an online geospatial database and a global community of over 1.5 million contributors, who are engaged in building a free and open map of the world that anyone can contribute to and that can be used in any tool or analysis.a  OSM was established in 2004 in the United Kingdom in reaction to restrictions around the use and/or availability of geospatial data across the world.
+OSM is a confederation of organizations and technologies. OpenSteetMap.org is a database with over 2.2 billion map “nodes” hosted by University College London, Imperial College London, Bytemark Hosting, and other partners. The OpenStreetMap Foundation is a UK charitable organization that oversees the state of the map. The Humanitarian OpenStreetMap Team (HOT) is a U.S. nonprofit corporation that applies the “principles of open source and open data sharing for humanitarian response and economic development.”b HOT provides support to emergency operations and training for the collection of mapping data in communities at risk.
+The database hosts data on transport networks, buildings, amenities, and natural landscapes across the globe. Data collection ranges from local-level surveys with handheld GPS units and paper maps to tracing satellite imagery.
+The repeated discussion of OSM throughout the case studies in this publication attests to the value of this innovative approach and its ability to improve our understanding of risk from natural hazards and climate change.
+a. OSM is open data, licensed under the Open Data Commons Open Database License (ODbL); see http://www.openstreetmap.org/copyright for more information on copyright and license.
+
+b. See the HOT website at http://hot.openstreetmap.org/.
+

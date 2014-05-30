@@ -1,0 +1,3 @@
+Modelled inundation for the 1992 tsunami in Flores, Indonesia (top) and underlying elevation data used in the model (bottom).
+
+__Source:__ Griffin et al. 2012.__Note:__ Top images show inundation estimates from the 1992 tsunami in Flores, Indonesia, with arrow pointing to black line showing the observed inundation limit. Bottom images show elevation data for LiDAR (left), airborne InSAR (middle), and SRTM (right).

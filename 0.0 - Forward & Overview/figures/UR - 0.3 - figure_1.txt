@@ -1,0 +1,2 @@
+The components for assessing risk and the difference between "impact" and "risk."
+Source: GFDRR 2014.

@@ -1,0 +1,2 @@
+Risk as a function of hazard, exposure, and vulnerability.
+__Note:__ Triangle 1 shows equal contributions to the risk equation. Triangle 2 shows a rapid increase in exposure and vulnerability, leading to increased risk (as in rapidly urbanizing cities). Triangle 3 shows increased hazard, exposure, and vulnerability, leading to increased risk (as in a rapidly growing coastal city where the effects of climate change are increasingly felt). Triangle 4 shows controlled exposure and vulnerability (such as through proactive DRM), leading to lower overall risk.
