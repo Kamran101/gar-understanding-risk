@@ -1,5 +1,5 @@
-See State of California Seismic Safety Commission (2000).
+<sup>9</sup> See State of California Seismic Safety Commission (2000).
 
-Alternately, risk can be expressed as a function: risk = f(hazard, exposure, vulnerability).
+<sup>10</sup> Alternately, risk can be expressed as a function: risk = f(hazard, exposure, vulnerability).
 
-However, data in this type of assessment can sometimes serve as the foundation for local applications, as was the experience with the Pacific Catastrophic Risk and Financing Initiative (see section 3&mdash;19).
+<sup>11</sup> However, data in this type of assessment can sometimes serve as the foundation for local applications, as was the experience with the Pacific Catastrophic Risk and Financing Initiative (see section 3&mdash;19).

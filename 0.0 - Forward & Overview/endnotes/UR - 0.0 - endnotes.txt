@@ -1,15 +1,15 @@
-The Global Assessment Report, whose preparation is overseen by the United Nations Office for 
+<sup>1</sup> The Global Assessment Report, whose preparation is overseen by the United Nations Office for Disaster Risk Reduction, is released every two years. Like previous reports, the 2015 edition addresses progress and challenges in achieving each of the Hyogo Framework for Action objectives. The Global Facility for Disaster Reduction and Recovery led the development of the analysis on "Priority Action 2: Identify, assess and monitor disaster risks."
 
-The 1999 Odisha cyclone, Cyclone 05B, was the first storm to be categorized by the India Meteorological Department (IMD) as a super cyclonic storm. The 10-minute sustained wind was derived using a factor of ~0.85 to convert from 1-minute to 10-minute sustained winds.
+<sup>2</sup> The 1999 Odisha cyclone, Cyclone 05B, was the first storm to be categorized by the India Meteorological Department (IMD) as a super cyclonic storm. The 10-minute sustained wind was derived using a factor of ~0.85 to convert from 1-minute to 10-minute sustained winds.
 
-According to IMD (2013), Cyclone Phailin’s winds at landfall were ~215km/hr. IMD uses 3-minute sustained winds as an average. A factor of ~0.9 was used to convert from 3-minute to 10-minute sustained winds. 
+<sup>3</sup> According to IMD (2013), Cyclone Phailin’s winds at landfall were ~215km/hr. IMD uses 3-minute sustained winds as an average. A factor of ~0.9 was used to convert from 3-minute to 10-minute sustained winds. 
 
-According to GFDRR (2012), a recent report by the World Bank’s Independent Evaluation Group finds “a clear shift toward risk reduction in Bank-supported investment projects since 2006,” though it also notes that “there is more to be done to systematically integrate an assessment of risks into the design and implementation of World Bank-financed projects (9).”
+<sup>4</sup> According to GFDRR (2012), a recent report by the World Bank’s Independent Evaluation Group finds "a clear shift toward risk reduction in Bank-supported investment projects since 2006," though it also notes that "there is more to be done to systematically integrate an assessment of risks into the design and implementation of World Bank-financed projects (9)."
 
-Liberated data are those that were at one time inaccessible due to format, policies, systems, etc., but are now being made available for use, either as discoverable and usable data sets or (in many cases) as technically open data sets. 
+<sup>5</sup> Liberated data are those that were at one time inaccessible due to format, policies, systems, etc., but are now being made available for use, either as discoverable and usable data sets or (in many cases) as technically open data sets. 
 
-This program began in 2011 through a partnership led by the Australia-Indonesia Facility for Disaster Reduction, Indonesia’s National Disaster Management Agency (Badan Nasional Penanggulangan Bencana), and the Humanitarian OpenStreetMap Team, with support from the GFDRR and the World Bank.
+<sup>6</sup> This program began in 2011 through a partnership led by the Australia-Indonesia Facility for Disaster Reduction, Indonesia’s National Disaster Management Agency (Badan Nasional Penanggulangan Bencana), and the Humanitarian OpenStreetMap Team, with support from the GFDRR and the World Bank.
 
- Technically open generally means that data can be found on the Internet at a permanent address and are available in structured, nonproprietary formats via download or an application programming interface (API).
+<sup>7</sup> Technically open generally means that data can be found on the Internet at a permanent address and are available in structured, nonproprietary formats via download or an application programming interface (API).
 
-OpenQuake was developed under the Global Earthquake Model Foundation; for more information see http://www.globalquakemodel.org/. For more information about CAPRA, see the program’s website at www.ecapra.org.
+<sup>8</sup> OpenQuake was developed under the Global Earthquake Model Foundation; for more information see http://www.globalquakemodel.org/. For more information about CAPRA, see the program’s website at www.ecapra.org.

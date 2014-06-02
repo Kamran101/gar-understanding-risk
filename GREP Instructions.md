@@ -14,7 +14,7 @@ __Italicise__ 				=> Use only double underscores for indicating italics
 <br />						=> Use this for a soft break
 
 */ Text /* 					=> Use this for Author names for each section
-// Text //					=> Use this for inline headings (Do not appear in TOC)
+/// Text ///					=> Use this for inline headings (Do not appear in TOC)
 
 Keep an eye out for the following:
 “” 							=> Typographer’s quotes do not work, replace "
