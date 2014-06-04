@@ -1,0 +1,72 @@
+## 3-14. Malawi: How Risk Information Guides an Integrated Flood Management Action Plan
+
+*/Francis Nkoka, Pieter Waalewijn (World Bank)/*
+
+Natural and man-made hazards cumulatively affected 25 million people in Malawi between 1974 and 2003, with weather-related disasters occurring on average once a year over the last 40 years (Government of Malawi 2010). Disaster risk in Malawi arises from a combination of tectonic activity, erratic rainfall, environmental factors, and socioeconomic vulnerability driven by widespread dependence on rain-fed agriculture, a narrow economic base, and extensive rural poverty (Government of Malawi 2011). With climate change, population growth, urbanization, and environmental degradation, the trend is toward more frequent and more intense disasters. 
+
+The government of Malawi recognizes that improved management of the natural hazard risk can lead to intensified, yet sustainable, agricultural production, better transport links, and more secure homes and livelihoods. With this vision of the country’s potential, the government of Malawi partnered with the World Bank and GFDRR to undertake a national risk assessment (RMSI 2011). This proactive, evidence-based analysis sought to determine, quantify, and map Malawi’s flood and drought hazard potential both historically and probabilistically, using average annual loss and probable maximum direct and indirect loss as metrics. It was recognized that improved flood management in the Shire River Valley in particular could significantly reduce entrenched poverty and potentially make the Shire Valley a national economic hub. With this in mind, the government of Malawi also commissioned a detailed flood analysis of the Shire basin (Atkins 2012). This staged approach to understanding risk in Malawi— national to local level—highlights the need for understanding of risk at many levels and for many purposes. 
+
+///National assessment of drought and flood risk///. Following the Standard Precipitation Index methodology (McKee, Doesken, and Kleist 1993), the drought risk assessment measured daily rainfall from 45 meteorological stations in Malawi to determine the precipitation time series. This historical series was used to generate a 500-year stochastic weather event set, which was in turn embedded in an agro-meteorological model to ascertain long-term drought frequency. The crops considered most exposed to drought included three types of maize and one type of tobacco. Economic crop production (and losses) leveraged data collected and shared by the Malawi Ministry of Economic Planning and Development.  
+  
+The analysis, completed in January 2011, revealed that the central region of Malawi had the greatest potential for losses, and that losses associated with LMZ (local) maize were the highest for any crop; the 50-year return period loss of LMZ maize in central Malawi was US$34 million. Across the entire country, the loss for this maize at this return period was as high as US$62 million, and the average annual loss for this maize was US$6 million. Composite maize was found to be the most drought-resistant. Losses associated with tobacco were considerably lower, with an average annual loss of US$1 million.
+
+Flood hazard analysis used daily flow discharges from 13 Malawi river stations over different two-year time periods, with ~90m resolution digital elevation model, a digital river network, and HEC-RAS flood modelling software. The Dartmouth Flood Observatory satellite images of the January 2003 flood event were used to calibrate the flood extent. Flood extent maps were produced to show return periods of 2, 5, 10, 20, 50, 100, 200, and 500 years. Exposure data consisting of population and dwellings (households)<sup>52</sup>, roads, railway, and agriculture (maize and tobacco) were then overlaid on the flood extent maps. Results reveal that, on average, about 26,000 people and 6,000 dwellings are inundated each year at a cost of US$6.5 million, with the district of Chikwawa most affected.<sup>53</sup> The average annual loss to roads, railways, and agriculture was found to be US$38,000, US$61,000, and US$19 million, respectively.
+
+Economic analysis reveals that Malawi loses about 1 percent of GDP per year as a result of drought, though during a 1-in-25-year drought, GDP can contract as much as 10 percent. A 1-in-25-year drought can also significantly exacerbate income poverty—that is, can cause an almost 17 percent increase in poverty, which is equivalent to an additional 2.1 million people falling below the poverty line. Malawi loses 0.7 percent of GDP per year as a result of flooding in the south—the part of the country where flooding is most severe. Since farmers in other parts of the country and export farmers typically benefit from higher prices during southern flood events, the 0.7 percent contraction in national GDP really does not reveal the significant localized impacts from flood.
+
+///Lower Shire River basin study///.<sup>54</sup> Following the national-level study and other analysis (Shela et al. 2008), a decision was made to undertake a comprehensive flood analysis of the Shire River basin. Approximately half a million people live in the Lower Shire valley and are regularly affected by flooding and water pollution. The highest-risk areas in the Shire Basin are Chikwawa and Nsanje districts, which are located in the lower section of the basin, and Mangochi district, just downstream of the outflow from Lake Malawi in the upper section of the basin, where flooding is caused when lake levels are high.
+
+Flooding in the Lower Shire River often occurs without warning, and some flood protection works currently in place are now considered unsafe or unsustainable due to poor engineering practices. The Lower Shire River is the site of flood disasters nearly every year, and these cause damage to infrastructure that is never successfully repaired. These disasters require significant flood aid and other relief support to a region that is the poorest in the country, and that already struggles with inadequate sanitation and limited access to clean water.
+
+The Shire River is economically and environmentally very important. It is the site of hydroelectric schemes that generate 98 percent of Malawi’s electricity; it contains extensive fisheries and wildlife conservation areas; and it provides freshwater for irrigated agriculture and for industrial and domestic uses. A better understanding of flood risk, and the mitigation of risk through targeted measures based on the findings of the assessment, would help to improve agricultural production and generally aid the population that lives in the area.
+
+The integrated flood risk analysis aimed to achieve the following:  
+
++ .Construction and calibration of a hydrodynamic model of the catchment capable of accurately predicting inundation of the floodplain for extreme fluvial flooding. This model was developed so that it can be updated in the future to improve accuracy and reliability as better data become available and can assess the effectiveness of potential interventions to mitigate flood impact.
++ .Simulation of floodplain inundation for 5-, 10-, 20-, 50-, 75-, 100-, and 500-year return period flood events, and for 100-year return period inundation considering change in rainfall patterns with climate change.
++ .Production of flood maps of the catchment for each of these design modelling scenarios.
++ .Development of a framework for flood forecasting and an early warning system in the basin.
++ .Development of guidelines for flood mitigation measures.
++ .Building capacity of stakeholders involved in flood management and development of an institutional development plan.
+
+The objectives were achieved by developing a Soil Conservation Service rainfall-runoff model (SCS 1986) using time varying rainfall data for different return periods (derived from depth-frequency statistical analysis of daily rainfall), with input and flow data, where available, used to calibrate the model. A sample flood map is in figure 3-18.
+
+Physical data sets on topography, land use, geology, and soil type, as well as time series data, were used in the flood analysis. A variety of improvements is being made to these data for future analysis: 
+
++ .For topography, SRTM data were used, but these have inadequate vertical accuracy and spatial resolution to serve as the basis for detailed flood modelling and mapping. Higher resolution digital elevation is being developed for the catchment, and the integration of these data will result in substantial improvements in model accuracy. 
++ .For flow and level data, sub-daily rainfall and flow data are now being used to improve hydrological modelling. 
++ .Observed water level on the Shire and its tributaries should be used to provide calibration data. Once limitations in the location of gauges within the basin are addressed, better calibration of the model will be possible.
+
+An assessment of the baseline flood risk to high-risk villages was used in conjunction with the economic assessment of flood damage to assess the likely benefits of implementing flood protection measures such as defenses, catchment improvement through reforestation, and flood storage. Key findings from this analysis include the following:
+
++ .Increase in forest cover to reduce flood depth in catchments should be applied on a case-by-case basis, since the measure is not effective in every catchment.
++ .Flood storage options were found to be impractical and ineffective for events larger than those having a 10-year return period. These options appeared to reduce flooding in more-frequent events, but the analysis was not conclusive and would benefit from analysis of higher-resolution LiDAR data.
++ .Predicted changes associated with climate—such as a 12 percent increase in river flow—did not result in a significant change in flood inundation along the river. However, changes may be more apparent with a higher-resolution digital elevation model.
+
+Based on the flood hazard and inundation maps, flood zones (figure 3-19) were defined with the following zoning categories for the Shire River basin: 
+
++ .Low flood hazard zone: land inundated in a 500-year flood event
++ .Moderate flood hazard zone: land inundated in 100- to 500-year flood events 
++ .The floodplain: land inundated in 100-year flood events
++ .High flood hazard zone: land inundated in 20- to 100-year flood events 
++ .Functional floodplain: land between the river at normal flow levels and the 20-year flood event
+
+After defining flood zones, the assessment then provided guidelines for risk-sensitive development within the different zones: for example, emergency and other essential services should be located in low flood hazard zones, water-compatible or less vulnerable development should be in high hazard zones, and a minimum of development should occur within the functional floodplain. However, agriculture could be promoted within the highly productive floodplain area that was found to be dry during five-year flood events.
+
+Additional analysis and consultation based on this analysis led to development of the Shire Integrated Flood Risk Management Action Plan. The plan is guided by three principles:
+
+1. 	.__Flooding is a natural process and a development issue__. The action plan will work toward a more detailed and robust understanding of flooding through improvements in input data. It will also identify where human development and activities intersect with high flood risk areas and implement measures (both structural and nonstructural) that protect populations from flooding and ensure effective response to flooding.
+2. 	.__Flood management requires a whole-of-government/country approach__ and entails partnerships between government agencies, donors, communities, land owners, and private sector players. The action plan creates an improved institutional structure and aims to equip all stakeholders with the skills needed to contribute to a holistic approach to flood risk management.
+3.	.__A pragmatic and integrated approach to flooding includes flood management, risk reduction, preparedness, response, and recovery__.
+
+The action plan has identified approximately 100 intervention measures under four main themes. Several sample interventions are highlighted here.
+
+1.	.__Improving the hydrodynamic modelling framework that was produced in the first phase of analysis__, in recognition of the limitations and uncertainties of this risk assessment. Key activities include channel topographic surveys to extend the model to tributaries and improve the accuracy of the model, improvement of data-sharing procedures and protocols, and additional modelling of factors contributing to flood such as sedimentation. 
+
+2.	.__Investing in structural interventions__. These focus on flood protection for villages found to be most at risk, catchment improvements through reforestation, maintenance of culverts and bridges to improve flow capacity, considerations of flood storage options, and a feasibility analysis of a plan to flood-proof existing buildings to act as flood shelters.
+
+3.	.__Supporting improvements to flood forecasting and early warning systems__ through review of past programs and interventions, improvements to monitoring systems, assessment of the monitoring system overall, and consideration of improvements in light of flood risk assessment. 
+
+4.	.__Building institutional capacity__ through a comprehensive training package on collecting hydrometeorological data, running the hydrodynamic model, and building institutions. 
+
+As a step toward implementing the action plan, and specifically with the goal of improving data sharing across government agencies, in November 2012 the Malawi government launched the Malawi Spatial Data Portal (MASDAP http://www.masdap.mw/about/). This GeoNode already hosts 123 spatial layers,<sup>56</sup> including infrastructure, OSM layers, flood outlines from a 2012 Atkins study, elevation and other data, and data sets on soil type. (For more on the development and use of GeoNodes, see the section 3-1 and box 3-1 above). It is part of the Malawi government’s effort to open data, support community mapping activities, and develop decision support tools that leverage open data for contingency and land-use planning activities.

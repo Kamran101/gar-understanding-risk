@@ -1,0 +1,56 @@
+## 3-13. Detailed Island Risk Assessment in Maldives to Inform Disaster Risk Reduction and Climate Change Adaptation
+
+*/Jianping Yan, Kamal Kishore (United Nations Development Programme)
+With sea levels expected to rise and extreme weather events expected to increase in intensity, Maldives, located in the central Indian Ocean, is considered one of the world’s most vulnerable countries. Eighty percent of all the islands that make up Maldives are small, low-lying, and highly prone to flooding and coastal erosion. More than 44 percent of settlements—home to 42 percent of the population—and more than 70 percent of all critical infrastructure is located within 100m of the shoreline. As coastal erosion and pressure on scarce land resources increase, the physical vulnerability of island populations, infrastructure, and livelihood assets will increase as well. 
+
+The most significant driver of increasing vulnerability to natural hazards and climate change in Maldives is the absence of systematic adaptation planning and practice. Climatic risks and long-term resilience are not adequately integrated into island land-use planning or into coastal development and protection policies and practice.  
+
+///Safe Island Programme///. In order to reduce the environmental, economic, and social vulnerability of the widely dispersed population, in 2002 the government of Maldives initiated a program to encourage voluntary migration to larger islands. The program’s long-term objective was to reduce the number of inhabited islands and consolidate the population in fewer settlements across an identified number of islands. 
+
+The 2004 Indian Ocean tsunami underlined the urgency of providing safe zones for isolated communities living on distant islands. This event caused severe damage to physical infrastructure of many islands and set back development. The total damages were estimated at US$470 million, amounting to 62 percent of GDP. Of these, direct losses totaled US$298 million, which is 80 percent of the replacement cost of the national capital stock. Most of the islands that were destroyed in the tsunami were highly exposed, with little or no coastal protection. The tsunami led Maldives officials to seek financially sustainable and ecologically safe settlement planning and socioeconomic development of atolls, and to integrate safety considerations into planning and development. 
+
+Toward this end, the Safe Island Programme was established in 2006. Its goals were to protect the islands from natural and other hazards; to rebuild and improve existing infrastructure and economic facilities; and to build community resilience to disasters through improved planning and implementation of risk reduction investments. The program emphasized that it was a multi-sectoral effort and that it was to be seen as integral to all development and planning (that is, not optional). It held that decision making should be based on widespread consultation and participation, and that human activities that damage the natural environment should be minimized and existing damage rectified.
+
+A key step in achieving the goals of the Safe Island Programme involved producing a short list of potential safe islands through consultation, using both subjective and objective criteria. Once the short list of potential safe islands was agreed to, detailed island-level assessments were planned and carried out. These assessments aimed at filling gaps in knowledge and engaging with island officials and the general public. 
+
+The goal was for islands developed under the program to have appropriate coastal protection; improved communication and transportation facilities; improved housing, infrastructure, and social services; and adequate capacity/preparedness to manage emergencies and disasters. For example, safe islands developed under the program would have access to all basic services in an emergency, particularly those related to health, communication, and transport, and would have a buffer stock of basic food and safe drinking water. Some of the enhanced mitigation features of safe islands are shown in figure 3-16.
+
+///Identifying Safe Islands///. Detailed risk assessments were undertaken for 10 islands short-listed for development as safe islands (see figure 3-17). The assessments, carried out with technical and financial assistance from UNDP, aimed to produce risk information that would be used to recommend specific mitigation options. Key outcomes of the risk assessment included the following:
+
++ .Design and development of a risk information process to generate critical inputs for the Safe Island Programme
++ .Mapping of the selected islands’ overall hazard context, including hazard event scenarios, their probability of occurrence, and their geospatial extent, based on geological and historical disaster data and simulated hazard data 
++ .Assessment of the islands’ full range of vulnerabilities (environmental, physical, economic, social), with reference to multiple hazard events and relocation
++ .Creation of comprehensive risk information for coastal ecological systems, building stocks, infrastructures, and the most important economic sectors (mainly tourism and fisheries)
+
+The project was carried out in three phases, starting in January 2007:
+
+Phase 1 involved hazard assessments of tsunamis, swells or high tides, wind storms, heavy rainfall, storm surges, droughts, and earthquakes. These were conducted for return periods of 25, 50, and 100 years for 10 islands (UNDP and RMSI 2006).
+
+An environmental vulnerability assessment was undertaken at the same time. It examined the effects of coastal erosion and compiled available data on coastal erosion and hazards as well as related parameters. The assessment also included mapping of coastal vegetation.
+
+The exposure of buildings and infrastructure to different hazards was calculated and “safe” buildings on each island identified. This effort included determining the capacity of safe buildings to serve as shelters, and identifying where public infrastructure required retrofitting.<sup>49</sup>
+
+In the second phase, hazard data from phase 1 were used to determine the vulnerability of fishery, tourism, agriculture, small business, and home-based industry sectors. This effort also included a comparative analysis of livelihood opportunities and relocation costs. A social vulnerability assessment was undertaken that (among other things) considered communities’ feelings about integrating outsiders (since development of safe islands requires relocating people).<sup>50</sup>
+
+The third phase integrated all the information and made recommendations for island-specific disaster risk mitigation measures based on a cost-benefit analysis. <sup>51</sup>
+
+///Using risk information///. The 2011 Strategic National Action Plan, which has been fully endorsed by the government of Maldives, built on the recommendations of the risk information and cost-benefit analysis. The risk information is providing key inputs into the development of risk-sensitive national building codes. The risk outputs have been used to design and develop a national training program and to promote a national public awareness campaign for disaster risk reduction, early warnings, and response actions. Launched in 2009 by the National Disaster Management Centre and Maldives Meteorological Service in partnership with the UNDP, the “Rakkaavethibiyya—Dhivehiraajje” (“Be aware—Be prepared”) campaign was the country’s first public awareness campaign addressing disaster risk. 
+There are still challenges to integrating risk information into the Safe Islands Programme, and these have hindered progress toward the original vision. Specifically: 
+  
++ .The cost-benefit analysis showed that mitigation investments must be approached with caution because there is significant uncertainty in the analysis and because the benefit-to-cost ratios are not consistently positive or indeed very high. Therefore any change in the underlying assumptions could result in a net loss on investment.
++ .A significant shift in focus needs to take place toward softer protection measures (e.g., mangroves) and other options to increase resilience. 
+
+There were also challenges encountered during the implementation of the risk assessment activities:
+ 
++ .__Insufficient time was planned for project implementation__. The duration of four months for project implementation was not sufficient, given the complexity of the analysis. 
++ .__Identifying local technical specialists was difficult__. The project struggled to recruit a local structural engineer, resulting in significant reallocation of responsibilities, including the diversion of staff from other UNDP programs.
++ .The islands were far apart from one another. Arranging the field survey across 10 dispersed islands posed challenges for physical access as well as information sharing. 
++ .__Data acquisition was not straightforward__. Like risk assessments undertaken in other developing countries, the assessment in Maldives found data collection problematic. Maldives lacked certain necessary data, including base maps, long-term climatologic data, and historical event data; some necessary data were available but had to be purchased. For acquisition of exposure data, field surveys were the only option. 
++ .__Capacity and institutionalization were limited__. The government of Maldives has limited staff with the requisite skills and/or qualifications. Moreover, there is no institution or organization specifically responsible for risk information and no unified data management mechanism in place.
+
+///Lessons learned///. The work in Maldives on risk suggested the following lessons:
+
++ .Evidence-based hazard risk profiles are critical for carrying out cost-benefit studies of disaster risk mitigation measures and for communicating risks to national stakeholders.
++ .Risk information can be an effective means of engaging national stakeholders and decision makers, and maintaining engagement from the start to finish will increase the buy-in of the results.
++ .It is important to systematically document data collected and produced over the course of the project, including the implementation plans, methodological framework, data and databases, etc. This documentation provides critical inputs to the institutionalization of the National Disaster Management Centre and lays down a solid foundation for the establishment of a national risk information system in the future.
+

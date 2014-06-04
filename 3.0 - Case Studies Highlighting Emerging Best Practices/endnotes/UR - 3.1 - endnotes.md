@@ -1,3 +1,4 @@
+## Endnotes
 <sup>21</sup>See the institutions’ websites at www.codeforresilience.org and http://www.rhok.org/. 
 
 <sup>22</sup>Parts of this paper also appear in Soden, Budhathoki, and Palen (2014). 
@@ -53,3 +54,93 @@ The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work p
 <sup>46</sup>The software development and the risk assessment exercises were undertaken by ERN-AL consortium.
 
 <sup>47</sup>This module, called CRISIS, was developed at the Engineering Institute of the National University of Mexico by M. Ordaz, A. Aguilar, and J. Arboleda.
+
+<sup>48</sup>World Bank, Asian Development Bank, UN System, “Tsunami: Impact and Recovery, Joint Needs Assessment, 2005.”
+
+<sup>49</sup>The outputs of this phase included a synthesis report, a report on methodologies, 10 detailed island reports, and a technical specification report on databases. All are accessible at the Maldives Department of National Planning website, http://planning.gov.mv/en/content/view/306/93/.
+
+<sup>50</sup>This phase produced social and economic vulnerability assessment reports as follows: a synthesis report, a methodological description, and 10 detailed island reports. All are accessible at the Maldives Department of National Planning website, http://planning.gov.mv/en/content/view/306/93/.
+
+<sup>51</sup>The cost-benefit report is accessible at http://www.preventionweb.net/english/professional/publications/v.php?id=14437.
+
+<sup>52</sup>These data were from the National Statistics Office 2008 population and housing census.
+
+<sup>53</sup>Note that for the purposes of analysis flood defenses were assumed to be not effective due to insufficient maintenance. 
+
+<sup>54</sup>Material in this section is based on the World Bank–commissioned Shire Integrated Flood Risk Management Program Final Report: Volume 1; the report was completed in 2012 by Atkins.
+
+<sup>55</sup>For this determination, the 1-in-100-year scenario with climate change was used.
+
+<sup>56</sup>The figure is as of March 1, 2014.
+
+<sup>57</sup>This involved data from 1,076 existing boreholes and 48 new drillings undertaken under the project.
+
+<sup>58</sup>
+
+<sup>59</sup>
+
+<sup>60</sup>
+
+<sup>61</sup>
+
+<sup>62</sup>
+
+<sup>63</sup>
+
+<sup>64</sup>
+
+<sup>65</sup>
+
+<sup>66</sup>
+
+<sup>67</sup>
+
+<sup>68</sup>
+
+<sup>69</sup>
+
+<sup>70</sup>
+
+<sup>71</sup>
+
+<sup>72</sup>
+
+<sup>73</sup>
+
+<sup>74</sup>
+
+<sup>75</sup>
+
+<sup>76</sup>
+
+<sup>77</sup>
+
+<sup>78</sup>
+
+<sup>79</sup>
+
+<sup>80</sup>
+
+<sup>81</sup>
+
+<sup>82</sup>
+
+<sup>83</sup>
+
+<sup>84</sup>
+
+<sup>85</sup>
+
+<sup>86</sup>
+
+<sup>87</sup>
+
+<sup>88</sup>
+
+<sup>89</sup>
+
+<sup>90</sup>
+
+<sup>91</sup>
+
+<sup>92</sup>
