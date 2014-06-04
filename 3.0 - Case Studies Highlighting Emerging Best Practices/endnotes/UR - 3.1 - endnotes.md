@@ -75,13 +75,13 @@ The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work p
 
 <sup>57</sup>This involved data from 1,076 existing boreholes and 48 new drillings undertaken under the project.
 
-<sup>58</sup>
+<sup>58</sup>See Pektas and Gulkan (2004). 
 
-<sup>59</sup>
+<sup>59</sup>ISMEP is a €1.5 billion project running from 2006 to 2018. It is funded by the World Bank, European Investment Bank, European Council Development Bank, and Islamic Development Bank.
 
-<sup>60</sup>
+<sup>60</sup>ISMEP Magazine, May 2012, http://issuu.com/guvenliyasam/docs/ismep_dergi_en5/9?e=0/6534273. 
 
-<sup>61</sup>
+<sup>61</sup>This assumed the same level of seismicity across the country.
 
 <sup>62</sup>
 

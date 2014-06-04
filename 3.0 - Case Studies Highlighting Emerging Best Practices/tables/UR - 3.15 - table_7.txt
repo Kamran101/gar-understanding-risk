@@ -1,0 +1,2 @@
+Building Classifications Used in Prioritization Methodology 
+__Source__: World Bank 2012b.__Note__: For brevity, only levels 5 and 1 are described, although each attribute can earn a score of 1 to 5. For certain attributes, there are multiple proposed methods for assigning values, such as based on the number of students in a school.
