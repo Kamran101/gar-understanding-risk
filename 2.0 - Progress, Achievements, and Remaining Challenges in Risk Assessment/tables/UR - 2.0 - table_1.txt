@@ -1,0 +1,3 @@
+Examples of Globally Available Hazard-related Data
+
+a. Best-track data are defined as “a subjectively-smoothed representation of a tropical cyclone's location and intensity over its lifetime.” National Hurricane Center, “Glossary of NHC Terms,” http://www.nhc.noaa.gov/aboutgloss.shtml.

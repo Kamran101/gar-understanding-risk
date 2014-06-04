@@ -21,6 +21,8 @@ Keep an eye out for the following:
 ‘’							=> Apostrophe’s do not work, replace with Prime '
 &mdash;				=> Use this for when typing in an EM Dash (–)
 
+<<<<>>>>					=> Use this to indicate a Manual Page Break
+<<col>>					=> Use this to indicate a Manual Column Break
 
 
 ## GREP Queries

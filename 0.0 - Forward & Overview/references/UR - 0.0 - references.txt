@@ -1,13 +1,14 @@
 ## References
 GFDRR (Global Facility for Disaster Reduction and Recovery). 2012. “Managing Disaster Risks for a Resilient Future: A Strategy for the Global Facility for Disaster Reduction and Recovery 2013&mdash;2015.” https://www.gfdrr.org/sites/gfdrr.org/files/publication/GFDRR_Strategy_Endorsed_2012.pdf.
 
-———. 2014. Open Data for Resilience Initiative Field Guide. Washington, DC: World Bank.
+———. 2014. __Open Data for Resilience Initiative Field Guide__. Washington, DC: World Bank.
 
 IMD (India Meteorological Department). 2013. Very Severe Cyclonic Storm, PHAILIN over the Bay of Bengal (08-14 October 2013): A Report. New Dehli: Cyclone Warning Division, India Meteorological Department. http://www.imd.gov.in/section/nhac/dynamic/phailin.pdf.
 
-IPCC (Intergovernmental Panel on Climate Change). 2012. Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A special report of Working Groups I and II of the Intergovernmental Panel on Climate Change. Cambridge and New York: Cambridge University Press. 
+IPCC (Intergovernmental Panel on Climate Change). 2012. __Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation__. A special report of Working Groups I and II of the Intergovernmental Panel on Climate Change. Cambridge and New York: Cambridge University Press. 
 
-UNDP (United Nations Development Programme). 2013. “A Comparative Review of Country-level and Regional Disaster Loss and Damage Databases.” Bureau for Crisis Prevention and Recovery, UNDP. http://www.undp.org/content/undp/en/home/librarypage/crisis-prevention-and-recovery/loss-and-damage-database/.
-World Bank. 2012. The Sendai Report: Managing Disaster Risks for a Resilient Future. Washington, DC: World Bank. https://www.gfdrr.org/sites/gfdrr.org/files/publication/Sendai_Report_051012_0.pdf.
+UNDP (United Nations Development Programme). 2013. “__A Comparative Review of Country-level and Regional Disaster Loss and Damage Databases__.” Bureau for Crisis Prevention and Recovery, UNDP. http://www.undp.org/content/undp/en/home/librarypage/crisis-prevention-and-recovery/loss-and-damage-database/.
 
-World Bank and GFDRR (Global Facility for Disaster Reduction and Recovery). 2013. Building Resilience: Integrating Climate and Disaster Risk into Development—The World Bank Group Experience. Washington, DC: World Bank. http://www.worldbank.org/content/dam/Worldbank/document/SDN/Full_Report_Building_Resilience_Integrating_Climate_Disaster_Risk_Development.pdf.
+World Bank. 2012. __The Sendai Report: Managing Disaster Risks for a Resilient Future__. Washington, DC: World Bank. https://www.gfdrr.org/sites/gfdrr.org/files/publication/Sendai_Report_051012_0.pdf.
+
+World Bank and GFDRR (Global Facility for Disaster Reduction and Recovery). 2013. __Building Resilience: Integrating Climate and Disaster Risk into Development—The World Bank Group Experience__. Washington, DC: World Bank. http://www.worldbank.org/content/dam/Worldbank/document/SDN/Full_Report_Building_Resilience_Integrating_Climate_Disaster_Risk_Development.pdf.

@@ -1,0 +1,20 @@
+## Hazard and Risk Assessment Tools<sup>19</sup>
+
+Since 2005, the number of nonproprietary hazard and risk modelling tools has grown rapidly as part of the global movement to understand and manage risk. These tools allow users to calculate risk and better understand, prepare for, and mitigate the likely impact of potential disasters.
+
+Given the plethora of tools available and the variety of reasons for seeking to assess risk, users may find it challenging to choose the appropriate tool for addressing the hazard, exposure, and/or risk question under consideration and is aligned with their modelling and computational experience. Some attempts have been made to evaluate the many modelling tools that are available to users at no cost, but these efforts did not include in-depth review or testing. Thus the evidence base to differentiate tools for different purposes and end uses has been lacking.
+
+To address this gap and meet the need for a systematic review of tools against a set of established criteria, the Global Facility for Disaster Reduction and Recovery (GFDRR) and World Bank undertook testing and evaluation of free hazard and risk modelling software using a consistent approach. The review considered over 80 open access noncommerical software packages. A preliminary analysis based on whether the 80 models were currently supported was used to select a subset of eight earthquake models, four cyclone models, eleven flood models, and eight storm surge/tsunami models for more detailed analysis. The detailed analysis evaluated the models on the basis of over 100 criteria, and the results provide a synopsis of key open access natural hazard risk modelling tools available worldwide.  
+
+This analysis highlights the strengths of different modelling tools, from sophisticated graphical user interfaces (GUIs) to ease of installation, to user support and frequent updates, to capacity for customization. It also highlights some of the challenges that a user of a modelling tool might face, from difficulty with installation to poor documentation and many other factors. It is important to note that many modelling tools are frequently updated, so the challenges presented in this analysis may have been overcome with a recent software update.
+  
+The evaluation of software packages included the following steps:
+
+1.	.Evaluation criteria were developed for open access software packages based on Daniell (2009) and through consultations.
+2.	.A preliminary review of available open source packages worldwide in the four peril types was undertaken. More than 80 software packages were downloaded and initial checks made concerning availability, source code, active or inactive status, and so on.
+3.	.An initial multi-criteria analysis was undertaken in order to select the packages to review in depth for each peril. 
+4.	.The 31 selected packages were installed and tested using tutorials, data sets, and examples in order to create outputs. This step included noting advantages and disadvantages of these software packages, and then filling out a detailed final set of about 180 criteria under 11 key classification themes (open source, GUI, software documentation, technology, exposure component, vulnerability, hazard, risk, post-event analysis, scenario planning, and output).
+
+A sample page of the review (for MAEvis/mHARP) is shown in figure 2-3. The review of every package is available in Daniell (2014).
+
+The information generated with this assessment can aid users in selecting suitable software packages. It is highly recommended that users test as many packages as possible in order to make an informed decision about which software is right for their purposes. Users at all levels should understand the sensitivity of models to changes in inputs and would probably benefit from training, as box 2-10 suggests. (For case studies that demonstrate the importance of training, see sections 3-9 and 3-12).
