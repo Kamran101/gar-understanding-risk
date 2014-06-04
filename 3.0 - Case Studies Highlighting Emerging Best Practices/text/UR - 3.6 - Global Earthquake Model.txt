@@ -1,0 +1,40 @@
+## 3-6. Global Earthquake Model 
+
+*/Helen Crowley, Nicole Keller, Sahar Safaie, Kate Stillwell (GEM)/*
+
+The Global Earthquake Model (http://www.globalquakemodel.org/) is a collaborative effort involving global scientists and public and private stakeholders. Founded in 2009, GEM aims to build greater public understanding and awareness of seismic risk, and to increase earthquake resilience worldwide, by sharing data, models, and knowledge through the OpenQuake platform; by applying GEM tools and software to inform decision making for risk mitigation and management; and by expanding the science and understanding of earthquakes. 
+
+During the last five years, GEM has focused on four key pillars:
+
++ .__Trusted and credible science__. Assessing earthquake risk holistically requires multidisciplinary knowledge—seismology, geotechnical and structural engineering, economics, and social science—combined with the latest technology. GEM has brought this diverse scientific community together in various scientific platforms which aim to achieve a common language, while keeping discussion and debate alive.
++ .__Wide impact and public good__. GEM has focused on trying to bridge gaps—both from science to practice, and from knowledge to action. 
++ .__Openness and transparency__. The OpenQuake platform is being designed to allow users to evaluate the impact of any assumption on results, implement alternative data or models, and explicitly account for uncertainty. Source code of the software and tools is publicly accessible. 
++ .__Collaboration__. GEM is made up of people with a passion for contributing to the mitigation of seismic risk, so collaborations have been built across sector, geography, and discipline. 
+
+Between 2009 and 2013, GEM made a significant contribution toward advancing the science and technology needed for global state-of-the-art seismic hazard and risk modelling, data collection, and risk assessment at the global, regional, national, and local scales. These contributions include the following:
+
+///ISC-GEM Global Instrumental Earthquake Catalogue/// (released January 2013). This risk assessment data set is a homogenous global catalog of nearly 20,000 earthquakes. Archiving and reassessing records from 1900 to 2009, the catalog represents the state-of-the art record for earthquake locations and magnitudes.
+
+///Historical Catalogue and Archive/// (released June 2013). This project archives almost a thousand earthquakes. Using the most detailed and up-to-date studies in the scientific literature, this archive spans nearly a millennium, from the early Middle Ages (1000 CE) to the advent of instrumental recording at the start of the 20th century (1903 CE). The catalog itself provides detailed parameters on 827 earthquakes of magnitude greater than 7 across the globe; see figure 3-6 for a sample image.
+
+///Geodetic Strain Rate Model/// (released February 2014). This model estimates deformation rates on the Earth’s surface based on measurements from the global network of geodetic instruments using the Global Positioning System (GPS). Building upon a data set of more than 18,000 GPS velocity measurements worldwide, the GEM Global Geodetic Strain Rate model represents a fivefold expansion of data from its 2004 predecessor. It features global coverage and high resolution in actively deforming regions.
+
+///Active Faults Database and Tools/// (expected release November 2014). This database assembles available national, regional, and global active-fault databases worldwide within a common repository. A capture tool has been developed to allow local and regional geologists to feed data on local active faults into the common database.
+
+///Global Exposure Database/// (expected release November 2014). The first open database of global buildings and population distribution is being built through the GED4GEM project. GEM’s Global Exposure Database will be a multi-scale, multilevel database that will be an integral part of the OpenQuake platform. It has been designed to accommodate data at four levels of resolution, from national to individual-building scales.
+
+///Earthquake Consequences Database/// (expected release November 2014). This database captures a full spectrum of consequences from earthquake-induced ground shaking, landslides, liquefaction, tsunamis, and fire following 66 historical earthquakes between 1923 and 2011. 
+
+///Physical Vulnerability Database/// (expected release November 2014). This data set contains more than 7,000 existing and new fragility and vulnerability functions (“damage curves”) from around the world, derived from empirical, analytical, and expert-opinion methods, and rated for quality. The functions form the basis for estimating damage and loss in terms of fatalities and building repair costs.
+
+///Socio-Economic Vulnerability and Resilience Global Database///  (expected release November 2014). This global database contains indicators measuring social vulnerability, resilience, and economic vulnerability at various scales. The data are structured and sub-structured according to a taxonomy that accounts for eight major categories (population, economics, education, health, governance and institutional capacities, the environment, infrastructure and lifelines, and current indices).
+
+///Ground Motion Prediction Equations/// (released December 2013). This initiative conducted a critical appraisal of ground motion prediction equations (GMPEs) in published scientific literature from around the globe. Defining a clear and reproducible process for the selection of ground motion models across all tectonic settings worldwide, the initiative proposed a set of 10 GMPEs for use in seismic hazard analysis in subduction, active shallow crust, and stable continental regions around the globe.
+
+///Building Taxonomy/// (released December 2013). This taxonomy categorizes buildings uniformly across the globe. It features 13 building attributes, including building occupancy, roof, and wall material. Selected characteristics are those affecting the seismic performance of a building, and also those used to describe exposure. This “common language” will facilitate global collaboration to understand the diversity and seismic vulnerability of buildings.
+
+///Physical Vulnerability Guidelines/// (expected release June 2014). These guidelines apply to the development of empirical, analytical, and expert opinion–based vulnerability functions.
+
+///Inventory Data Capture Tools/// (released January 2014). This set of open source tools captures data on buildings (inventory) both before and after an earthquake. Tools range from those capable of extracting footprints from satellite photos, to tablet or paper forms suitable for field use. After validation, the captured data can contribute to the Global Exposure Database or the Global Earthquake Consequences Database.
+
+///Socio-Economic Vulnerability and Resilience Tool Set ///(expected release November 2014). This set of tools assesses integrated earthquake risk by combining indices of physical risk with indices of socioeconomic vulnerability and resilience; the latter allows users to incorporate local knowledge.

@@ -1,0 +1,1 @@
+Example of the 5km x 5km grid constituting the exposure database for GAR13.__Source__: UNISDR.

@@ -1,0 +1,7 @@
+The Challenge of Multiple Tsunami Hazard Maps in Padang, Indonesia
+
+The city of Padang, Indonesia, is a hazard-prone area, where the potential for a major earthquake and tsunami is well established. As part of the tsunami risk reduction efforts in the city, international scientific groups as well as local institutions developed tsunami hazard maps as a basis for mitigation and evacuation planning. The maps’ information on hazard zones, however, differed significantly due to the different approaches and data used by the mappers. As of August 2008, at least eight different hazard maps had been created.(a)
+
+To help stakeholders reach agreement on the most acceptable hazard scenario and mapping approach for the city, the so-called Padang consensus meetings were convened. The scientists and local decision makers who attended the meetings reached agreement on the following major issues: earthquake source scenario (e.g., most plausible worst case, multi-scenario probability approach), basis data (topographical, bathymetry), and modelling parameters (e.g., consideration of roughness coefficient, consideration of buildings that modify the tsunami wave energy, and potentially inundated areas). Although some issues have yet to be resolved, the process has provided an opportunity to reconcile various state-of-the-art scientific findings and to showcase a science-policy platform for advancing tsunami hazard information.
+
+a. The figure is based on personal communication with GTZ, 2008.

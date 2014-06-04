@@ -1,0 +1,40 @@
+# 3-10. Informing Disaster Risk Management Plans in Aqaba, Jordan, through Urban Seismic Risk Mapping 
+
+*/Jianping Yan, Kamal Kishore, Zubair Murshed (United Nations Development Programme)/*
+
+Seismological and archaeological studies indicate that Aqaba, Jordan’s only coastal city, is at significant risk of intensive earthquakes (figure 3-14 shows historical seismicity for the country as a whole). As many as 50 major events have occurred in the last 2,500 years, including one as recent as November 1995.<sup>45</sup> At that time, DRM considerations were not included in city plans.
+
+In 2001, Aqaba was declared a special economic zone, which opened the door for investment, especially in tourism- and trade-related services. The anticipated urban growth associated with Aqaba’s new status was expected to increase its seismic risk. To minimize the potential human and financial losses from seismic hazards, the Aqaba Special Economic Zone Authority (ASEZA), the United Nations Development Programme (UNDP), and the Swiss Agency for Development and Cooperation launched a project to integrate seismic risk reduction considerations into Aqaba’s economic development in 2009.
+
+///Assessing risks and using risk information///. Under this partnership, the Jordanian Royal Scientific Society conducted a seismic hazard risk assessment. In addition to producing tools for quantifying the level of seismic risk affecting the city (usable by both scientists and legislators), the project supplied the evidence for an earthquake risk management master plan and served as the basis for an operational framework for earthquake risk reduction. 
+
+The seismic hazard risk analysis focused on two potential sources of earthquake hazard to Aqaba, the first from the fault system that runs from the Wadi Araba fault, through the Aqaba fault to the Gulf of Aqaba fault, and the second from an earthquake on the Dead Sea fault system (figure 3-15).
+
+A deterministic (impact) scenario from a maximum magnitude earthquake of 7.5 on the Aqaba fault section was produced, showing the impact on people, buildings, and the economy. Key results are presented in table 3-5. This analysis was developed from data on building distribution provided by the Aqaba Department of Statistics, Population and Housing Census. 
+
+Analysis also pointed to temporal elevated changes in the risk associated with the tourist peak season, weekend, and/or Ramadan. Moreover, the hospital capacity at the time of the analysis was 206 beds among three hospitals—a figure that clearly highlights challenges that would be encountered in the aftermath of an earthquake event, given that the scenario predicted more than 1,900 people requiring treatment. The study also made estimates of the restoration times for critical infrastructure and transport systems, and determined that main and secondary roads would likely be disrupted for more than 40 days, and wastewater systems disrupted for almost a month.
+
+Economic analysis undertaken at Hashemite University (Al Waked 2011) provided a comprehensive view of the direct, indirect, and secondary effects of this earthquake scenario. Findings are summarized in table 3-6.
+
+A key finding was the potential impact of the earthquake on Jordan’s only seaport, through which most imports and exports pass. For example, disruption of port activities for three months due to damage or due to a focus on humanitarian activities could amount to US$420 million. This loss would be nearly equaled by the predicted US$300 million loss associated with a reduction in tourism.
+This earthquake scenario made clear that unless DRM considerations were better accounted for in city planning, the potential impacts of an earthquake would be serious indeed. In response, ASEZA took steps to strengthen DRM in the city Aqaba. Among the improvements that were made are the following: 
+
++ .A new DRM master plan was prepared for the city. 
++ .A DRM Unit and multi-stakeholder coordination committee were established within the ASEZA to ensure that all development work takes risk reduction into account.
++ .Through this city assessment, the Jordanian Royal Scientific Society strengthened its risk assessment capacity and is now able to carry out seismic risk assessments for other parts of the country, including the Irbid Governorate. 
++ .Using the plausible seismic risk scenarios, ASEZA has also established and trained community-level emergency response teams, including search and rescue teams, to save lives in the event of a disaster.
++ .The Aqaba Development Company, a partner of the ASEZA, is now using the findings of the seismic risk assessment to make decisions about construction projects and about allocation of land to new businesses. 
+
+The DRM Unit is now a focal point for coordinating stakeholders and integrating DRM into all policies and development planning. In partnership with UNDP, the DRM Unit has trained more than 200 officials to improve its capacity to plan, coordinate, and implement DRM responses more efficiently. The DRM Unit has also implemented a school awareness campaign to educate students about personal safety in earthquakes. These initiatives are being replicated in other Jordanian cities to improve capacities of local authorities to protect trade, tourism, and culture.
+
+Because of these achievements and its overall progress in reducing disaster risk, the city of Aqaba was recognized by UNISDR as a role model city at the First Arab Conference on Disaster Risk Reduction, held in Jordan in March 2013.  
+
+///Lessons learned through this process to understand seismic risk in Aqaba///. Five factors were observed to contribute to the success of this project:
+
+1.	.A focus on decision making in risk assessment
+2. .Use of evidence-based risk assessments 
+3.	.Use of local expertise to ensure the sustainability and ownership of risk assessment activities 
+4.	.Communication of the risk findings over the course of the project implementation
+5.	.Extensive stakeholder engagement, and specifically the use of stakeholder workshops to disseminate knowledge and raise awareness of seismic risk in Aqaba
+
+Several challenges yet remain, including the following: managing and collecting data about natural hazards; applying microzonation maps to urban land-use planning; and continuing to build institutional capacity to analyze, assess, and manage disaster risks.

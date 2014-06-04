@@ -1,0 +1,1 @@
+Earthquake hazard map of central Sulawesi Province, developed collaboratively by Badan Geologi and AIFDR.__Source__: R. Robiana, A. Cipta, A. Solikhin, J. Griffin, and N. Horspool (Badan Geologi and Australia-Indonesia Facility for Disaster Reduction).

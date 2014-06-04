@@ -1,0 +1,2 @@
+Seismic Risk Scenario for Aqaba (maximum magnitude 7.5 earthquake)
+__Source__: Based on analysis of data from Aqaba Department of Statistics, Population and Housing Census.

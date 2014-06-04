@@ -38,3 +38,16 @@
 
 <sup>40</sup>Geoscience Australia holds a Creative Commons Attribution 3.0 Australia license for the material in this section. All terms of the license apply for reuse of text and graphics. Jones, Griffin, Robinson, and Cummins publish with the permission of the CEO, Geoscience Australia.
 The authors gratefully acknowledge Guy Janssen, whose independent review of the Indonesian Earthquake Hazard Project identified and articulated many of the factors for success discussed in this paper.
+
+<sup>41</sup>For more information, see http://aid.dfat.gov.au/countries/eastasia/indonesia/ and http://www.aifdr.org/.  
+The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work programs and funding decisions are jointly developed by the Australian Department of Foreign Affairs and Trade (DFAT) and Badan Nasional Penanggulangan Bencana (BNPB; Indonesian National Agency for Disaster Management)
+
+<sup>42</sup>The agencies are the BNPB; Badan Geologi (Geological Agency of Indonesia); Badan Meteorologi, Klimatologi, dan Geofisika (Indonesian Agency for Meteorology, Climatology and Geophysics); Lembaga Ilmu Pengetahuan Indonesia (Indonesian Institute of Sciences); and Institut Teknologi Bandung (Bandung Institute of Technology).
+
+<sup>43</sup>GMMA RAP is also known as the Enhancing Risk Analysis Capacities for Flood, Tropical Cyclone Severe Wind, and Earthquake for Greater Metro Manila Area program. 
+
+<sup>44</sup>Geoscience Australia, "International Work Helps Build Safer Communities in the Philippines," http://www.ga.gov.au/about-us/news-media/news-2014/international-work-helps-build-safer-communities-in-the-philippines.html.
+
+<sup>45</sup>The event occurred 95km south of Aqaba.
+
+<sup>46</sup>

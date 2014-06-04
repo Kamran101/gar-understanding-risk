@@ -1,0 +1,2 @@
+High-resolution aerial imagery draped over the LiDAR data collected for the GMMA RAP. 
+__Source:__ Geoscience Australia.
