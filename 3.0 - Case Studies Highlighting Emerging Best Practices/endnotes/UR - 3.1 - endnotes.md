@@ -97,9 +97,9 @@ The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work p
 
 <sup>68</sup>World Bank, “Tonga to Receive US$1.27 Million Payout for Cyclone Response,” press release, http://www.worldbank.org/en/news/press-release/2014/01/23/tonga-to-receive-payout-for-cyclone-response.
 
-<sup>69</sup>
+<sup>69</sup>This case study presents the results of interdisciplinary research undertaken within the framework of the MATRIX (New Multi-HAzard and MulTi-RIsK Assessment MethodS for Europe) project. The research was supported by the European Community’s Seventh Framework Programme through the grant to the budget of the MATRIX project (New methodologies for multihazard and multi-risk assessment methods for Europe [FP7/2007-2013]) under grant agreement no. 265138. The paper reflects the authors’ views and not those of the European Community. Neither the European Community nor any member of the MATRIX Consortium is liable for any use of the information in this paper. We wish to thank all who offered professional advice and collaboration. We are especially grateful to the practitioners who discussed with us the challenges of multi-risk assessment.
 
-<sup>70</sup>
+<sup>70</sup>See Scolobig et al. (2013).
 
 <sup>71</sup>
 
