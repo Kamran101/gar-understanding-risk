@@ -50,4 +50,6 @@ The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work p
 
 <sup>45</sup>The event occurred 95km south of Aqaba.
 
-<sup>46</sup>
+<sup>46</sup>The software development and the risk assessment exercises were undertaken by ERN-AL consortium.
+
+<sup>47</sup>This module, called CRISIS, was developed at the Engineering Institute of the National University of Mexico by M. Ordaz, A. Aguilar, and J. Arboleda.
