@@ -83,13 +83,13 @@ The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work p
 
 <sup>61</sup>This assumed the same level of seismicity across the country.
 
-<sup>62</sup>
+<sup>62</sup>This section is drawn from the World Bank report entitled Building Morocco’s Risk Resilience: Inputs into an Integrated Risk Management Strategy (Washington, DC: World Bank, 2013), which summarizes technical assistance work performed by the World Bank and funded by GFDRR and the Swiss Development Cooperation in the period 2008–2013.  
 
-<sup>63</sup>
+<sup>63</sup>EM-DAT: The OFDA/CRED International Disaster Database, www.emdat.be, Université Catholique de Louvain, Brussels (Belgium). 
 
-<sup>64</sup>
+<sup>64</sup>Abdelhamid Ben Abdelfadel and Fatima Driouech, “Climate Change and Its Impacts on Water Resources in the Maghreb Region,” http://www.arabwatercouncil.org/administrator/Modules/Events/IWRA%20Morocco%20Paper.pdf.
 
-<sup>65</sup>
+<sup>65</sup>The MnhPRA technical contractor was RMSI Ltd.
 
 <sup>66</sup>
 
