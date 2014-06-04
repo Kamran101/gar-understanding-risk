@@ -91,11 +91,11 @@ The AIFDR is managed by Australian and Indonesian co-directors, and AIFDR work p
 
 <sup>65</sup>The MnhPRA technical contractor was RMSI Ltd.
 
-<sup>66</sup>
+<sup>66</sup>This account of PCRAFI is based on World Bank project documents, including World Bank, “Pacific Catastrophic Risk Assessment and Financing Initiative: Better Risk Information for Smarter Investments—Catastrophic Risk Assessment Methodology,” Washington, DC, 2013, https://www.gfdrr.org/sites/gfdrr.org/files/publication/PCRAFI_Catastrophe_Risk_Assessment_Methodology.pdf.
 
-<sup>67</sup>
+<sup>67</sup>Timor-Leste is technically not in the Pacific but was included in the PCRAFI program.
 
-<sup>68</sup>
+<sup>68</sup>World Bank, “Tonga to Receive US$1.27 Million Payout for Cyclone Response,” press release, http://www.worldbank.org/en/news/press-release/2014/01/23/tonga-to-receive-payout-for-cyclone-response.
 
 <sup>69</sup>
 
