@@ -1,22 +1,116 @@
 ## References
 
 Adams, B., and C. Huyck. 2006. “Remote Sensing Technologies for Disaster Emergency Response: A Review.” In Acceptable Risk Processes: Lifelines and Natural Hazards, edited by Craig E. Taylor and Erik Vanmarcke. New York: ASCE Publications. 
-Allen, T. I., D. J. Wald, P. S. Earle, K. D. Marano, A. J. Hotovec, K. Lin, and M. G. Hearne. 2009. “An Atlas of ShakeMaps and Population Exposure Catalog for Earthquake Loss Modeling.” Bulletin of Earthquake Engineering 7: 701–18.
-ATC (Applied Technology Council). 1985. ATC-13: Earthquake Damage Evaluation Data for California. Washington, DC: ATC.
-Bal, Ihsan Engin, Julian J. Bommer, Peter J. Stafford, Helen Crowley, and Rui Pinho. 2010. “The Influence of Geographical Resolution of Urban Exposure Data in an Earthquake Loss Model for Istanbul.” Earthquake Spectra 26 (3): 619–34.
-Bhaduri, B., E. Bright, P. Coleman, and M. L. Urban. 2007. “LandScan USA: A High-resolution Geospatial and Temporal Modeling Approach for Population Distribution and Dynamics.” GeoJournal  69: 103–17.
-Boyd, E., M. Levitan, and I. van Heerden. 2010. “Improvements in Flood Fatality Estimation Techniques Based on Flood Depths.” In Wind Storm and Storm Surge Mitigation, edited by Nasim Uddin, 126–39. ADCE Libraries. doi:10.1061/9780784410813.ch11.
-Brinkman, Jan Jaap, and Marco Hartman. 2008. “Jakarta Flood Hazard Mapping Framework.”World Bank. (unpublished). http://www.hkv.nl/documenten/Jakarta_Flood_Hazard_Mapping_Framework_MH.pdf.Cardona, O. D., M. G. Ordaz, E. Reinoso, L. E. Yamin, and A. H. Barbat. 2012. “CAPRA–Comprehensive Approach to Probabilistic Risk Assessment: International Initiative for Risk Management Effectiveness.” Proceedings of the 15th World Conference on Earthquake Engineering. Lisbon, Portugal. http://www.iitk.ac.in/nicee/wcee/article/WCEE2012_0726.pdf.
-Chapman, K. 2012. “Community Mapping for Exposure in Indonesia.” Humanitarian OpenStreetMap Team. http://hot.openstreetmap.org/sites/default/files/CM4E-Indo-en.pdf.
-Chen, Keping, John McAneney, Russell Blong, Roy Leigh, Laraine Hunter, and Christina Magill. 2004. “Defining Area at Risk and Its Effect in Catastrophe Loss Estimation: A Dasymetric Mapping Approach.” Applied Geography 24 (2): 97–117.
-Coburn, A., and R. Spence. 2002. Earthquake Protection. Chichester, UK: Wiley.
-Coburn A. W., R. J. S. Spence, and A. Pomonis. 1992. “Factors Determining Human Casualty Levels in Earthquakes: Mortality Prediction in Building Collapse.” Proceedings of the First International Forum on Earthquake-Related Casualties. Madrid, Spain.
-Daniell, James. 2014. Review of Open Source and Open Access Software Packages Available to Quantify Risk from Natural Hazards. Washington, DC: World Bank and Global Facility for Disaster Reduction and Recovery.
-Daniell, J. E. 2009. “Open Source Procedure for Assessment of Loss Using Global Earthquake Modelling (OPAL Project).” CEDIM Earthquake Loss Estimation Series, Research Report No. 09-01. CEDIM. Karlsruhe, Germany.
-De Bono, A. 2013. “The Global Exposure Database for GAR 2013.” Background paper prepared for the 2013 Global Assessment Report on Disaster Risk Reduction, UNISDR, Geneva. www.preventionweb.net/gar.Dell’Acqua, F., P. Gamba, and K. Jaiswal. 2012. “Spatial Aspects of Building and Population Exposure Data and Their Implications for Global Earthquake Exposure Modeling.” Natural Hazards 68: 1291–1309.Dilley, M. 2005. Natural Disaster Hotspots: A Global Risk Analysis. Washington, DC: World Bank.
-Ehrlich, D., and P. Tenerelli. 2013. “Optical Satellite Imagery for Quantifying Spatio-temporal Dimension of Physical Exposure in Disaster Risk Assessments.” Natural Hazards 68 (3): 1271–89.
-Elsner, J. B., and T. H. Jagger. 2006. “Prediction Models for Annual U.S. Hurricane Counts.” Journal of Climate 19: 2935–52.
-Esch, T., M. Thiel, A. Schenk, A. Roth, A. Müller, and S. Dech. 2010. “Delineation of Urban Footprints from TerraSAR-X Data by Analyzing Speckle Characteristics and Intensity Information.” IEEE Transactions on Geoscience and Remote Sensing 48: 900–916.
-European Commission. 2010. “Risk Assessment and Mapping Guidelines for Disaster Management.” Commission Staff Working Paper, SEC(2010) 1626 final, European Commission, Brussels, Belgium.FEMA (Federal Emergency Management Agency). 2002. Rapid Visual Screening of Buildings for Potential Seismic Hazards: A Handbook. FEMA 154. 2nd ed. https://www.fema.gov/media-library/assets/documents/15212.Flay, S., and J. Nott. 2007. “Effect of ENSO on Queensland Seasonal Landfalling Tropical Cyclone Activity.” International Journal of Climatology 27: 1327–34. doi:10.1002/joc.1447.Geiß, C., and H. Taubenböck. 2013. “Remote Sensing Contributing to Assess Earthquake Risk: From a Literature Review towards a Roadmap.” Natural Hazards 68 (1): 1–42.GFDRR (Global Facility for Disaster Reduction and Recovery). 2011. “World Bank Distance Learning Natural Disaster Risk Management Program.” World Bank and GFDRR. https://www.gfdrr.org/sites/gfdrr.org/files/publication/WB_Risk_Analysis.pdf.Griffin, J. G., H. Latief, W. Kongko, S. Harig, N. Horspool, R. Hanung, A. Rojali, N. Maher, L. Fountain, A. Fuchs, J. Hossen, S. Upi, S. E. Dewanto, and P. R. Cummins. 2012. “An Evaluation of Onshore Digital Elevation Models for Tsunami Inundation Modelling.” American 
 
-Geophysical Union Fall Meeting Abstracts. http://fallmeeting.agu.org/2012/files/2012/12/Griffin-et-al-AGU-2012-NH21C-1598.pdf.Gunasekera, R., O. A. Ishizawa, C. Aubrecht, G. Pita, A. Pomonis, K. Fane, S. Murray, and B. Blankespoor. 2014. “Developing an Adaptive Exposure Model to Support the Generation of Country Disaster Risk Profiles.” Geophysical Research Abstracts 16: EGU2014-16168.Haraguchi, Masahiko, and Upmanu Lall. 2013. “Flood Risks and Impacts: Future Research Questions and Implication to Private Investment Decision-Making for Supply Chain Networks.” Background Paper prepared for the 2013 Global Assessment Report on Disaster Risk Reduction, UNISDR, Geneva.IPCC (Intergovernmental Panel on Climate Change). 2012. Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A special report of Working Groups I and II of the Intergovernmental Panel on Climate Change. Cambridge and New York: Cambridge University Press. Jaiswal, K. S., and D. J. Wald. 2010a. “Development of a Semi-empirical Loss Model within the USGS Prompt Assessment of Global Earthquakes for Response (PAGER) System.” Proceedings of 9th US and 10th Canadian Conference on Earthquake Engineering: Reaching Beyond Borders. Ottawa, Canada. Jaiswal, Kishor, and David Wald. 2010b. “An Empirical Model for Global Earthquake Fatality Estimation.” Earthquake Spectra 26 (4): 1017–37.Jaiswal, K. S., D. J. Wald, and K. A. Porter. 2010. “A Global Building Inventory for Earthquake Loss Estimation and Risk Management.” Earthquake Spectra 26 (3): 731–48.Lavakare, Ajay, and Kenna Mawk. 2008. “Exposure Data Quality.” In The Review: A Guide to Catastrophe Modelling, 12–14.  London: Informa. http://static.rms.com/email/documents/liferisks/collateral/a-guide-to-catastrophe-modeling-the-review.pdf.Lu, X., E. Wetter, N. Bharti, A. J. Tatem, and L. Bengtsson. 2013. “Approaching the Limit of Predictability in Human Mobility.” Nature Scientific Reports 3: Article no. 2923. doi:10.1038/srep02923.Martin-Ortega, J., and A. Markandya. 2009. “The Costs of Drought: The Exceptional 2007–2008 Case of Barcelona.” Basque Centre for Climate Change, Bilbao, Spain.Mondal, P., and A. J. Tatem. 2012. “Uncertainties in Measuring Populations Potentially Impacted by Sea Level Rise and Coastal Flooding.” PloS ONE. doi:10.1371/journal.pone.0048191.Müller, A., J. Reiter, and U. Weiland. 2011. “Assessment of Urban Vulnerability towards Floods Using an Indicator-based Approach: A Case Study for Santiago de Chile.” Natural Hazards and Earth System Science 11: 2107–23.Peduzzi, P., H. Dao, C. Herold, and F. Mouton. 2009. “Assessing Global Exposure and Vulnerability towards Natural Hazards: The Disaster Risk Index.” Natural Hazards and Earth System Science 9: 1149–59. Pesaresi, M., and M. Halkia. 2012. Global Human Settlement Layer Urban Atlas Integration: Feasibility Report. Luxembourg: Joint Research Centre European Union.Pittore, M., and M. Wieland. 2013. “Toward a Rapid Probabilistic Seismic Vulnerability Assessment Using Satellite and Ground-based Remote Sensing.” Natural Hazards 68: 1–31.Potere, D., A. Schneider, S. Angel, and D. Civco. 2009. “Mapping Urban Areas on a Global Scale: Which of the Eight Maps Now Available Is More Accurate?” International Journal of Remote Sensing 30: 6531–58.Scawthorn, C. 1997. “Fires Following the Northridge and Kobe Earthquakes.” In Thirteenth Meeting of the UJNR Panel on Fire Research and Safety, March 13-20, 1996, vol. 2, edited by K. A. Beall, 325–35. NISTIR 6030. National Institute of Standards and Technology.Spence, Robin, Julian Bommer, Domenico Del Re, Juliet Bird, Nuray Aydinog Lu, and Shigeko Tabuchi. 2003. “Comparing Loss Estimation with Observed Damage: A Study of the 1999 Kocaeli Earthquake in Turkey.” Bulletin of Earthquake Engineering 1: 83–113.Taubenböck, H., T. Esch, A. Felbier, M. Wiesner, A. Roth, and S. Dech, S. 2012. “Monitoring Urbanization in Mega Cities from Space.” Remote Sensing of Environment 117: 162–76.Trésor-Economics. 2012. “The Impact of Japan's Earthquake on the Global Economy.” No. 100. April. http://www.tresor.economie.gouv.fr/File/371985.Tsuji, Y., H. Matsutomi, F. Imamura, M. Takeo, Y. Kawata, M. Matsuyama, T. Takahashi, and P. Harjadi. 1995. “Damage to Coastal Villages Due to the 1992 Flores Island Earthquake Tsunami.” Pure and Applied Geophysics 144 (3): 481–524.UNDP (United Nations Development Programme). 2013. “A Comparative Review of Country-level and Regional Disaster Loss and Damage Databases.” Bureau for Crisis Prevention and Recovery, UNDP. http://www.undp.org/content/undp/en/home/librarypage/crisis-prevention-and-recovery/loss-and-damage-database/.UNISDR (United Nations Office for Disaster Risk Reduction). 2009. UNISDR Terminology on Disaster Risk Reduction. Geneva: UNISDR. http://www.preventionweb.net/files/7817_UNISDRTerminologyEnglish.pdf.———. 2012. “Towards a Post-2015 Framework for Disaster Risk Reduction.” http://www.unisdr.org/we/inform/publications/25129.UN (United Nations) Statistical Division. 2008. Principles and Recommendations for Population and Housing Censuses. New York: United Nations Publications.Van Westen, C. J. 2012. “Remote Sensing and GIS for Natural Hazards Assessment and Disaster Risk Management.” In Application of Space Technology for Disaster Risk Reduction: International Training Course Lecture Notes, 307–75. Dehradun, India: Indian Institute of Remote Sensing and Centre for Space Science and Technology Education in Asia and the Pacific.Wald, D. J., P. S. Earle, T. I. Allen, K. Jaiswal, K. Porter, and M. Hearne. 2008. “Development of the US Geological Survey’s PAGER System (Prompt Assessment of Global Earthquakes for Response).” Proceedings of the 14th World Conference on Earthquake Engineering. Beijing, China.Wesolowski, A., C. O. Buckee, D. K. Pindolia, N. Eagle, D. L. Smith, A. J. Garcia, and A. J. Tatem. 2013. “The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales.” PLoS ONE. doi:10.1371/journal.pone.0052971.World Bank. 2012a. Bangladesh: Towards Accelerated, Inclusive, and Sustainable Growth—Opportunities and Challenges. Vol. 2. Washington, DC: Poverty Reduction and Economic Management Sector Unit, South Asia Region, World Bank. ———. 2012b. “Thai Flood 2011: Rapid Assessment for Resilient Recovery and Reconstruction Planning.” World Bank, Washington, DC.Wu, M. C., W. L. Chang, and W. M. Leung. 2004. “Impacts of El Niño–Southern Oscillation Events on Tropical Cyclone Landfalling Activity in the Western North Pacific.” Journal of Climate 17: 1419–28. doi:http://dx.doi.org/10.1175/1520-0442(2004)017<1419:IOENOE>2.0.CO;2.Wyss, M., S. Tolis, P. Rosset, and F. Pacchiani. 2013. “Approximate Model for Worldwide Building Stock in Three Size Categories of Settlements.” Background paper prepared for the 2013 Global Assessment Report on Disaster Risk Reduction, UNISDR, Geneva.
+Allen, T. I., D. J. Wald, P. S. Earle, K. D. Marano, A. J. Hotovec, K. Lin, and M. G. Hearne. 2009. “An Atlas of ShakeMaps and Population Exposure Catalog for Earthquake Loss Modeling.” Bulletin of Earthquake Engineering 7: 701–18.
+
+ATC (Applied Technology Council). 1985. ATC-13: Earthquake Damage Evaluation Data for California. Washington, DC: ATC.
+
+Bal, Ihsan Engin, Julian J. Bommer, Peter J. Stafford, Helen Crowley, and Rui Pinho. 2010. “The Influence of Geographical Resolution of Urban Exposure Data in an Earthquake Loss Model for Istanbul.” Earthquake Spectra 26 (3): 619–34.
+
+Bhaduri, B., E. Bright, P. Coleman, and M. L. Urban. 2007. “LandScan USA: A High-resolution Geospatial and Temporal Modeling Approach for Population Distribution and Dynamics.” GeoJournal  69: 103–17.
+
+Boyd, E., M. Levitan, and I. van Heerden. 2010. “Improvements in Flood Fatality Estimation Techniques Based on Flood Depths.” In Wind Storm and Storm Surge Mitigation, edited by Nasim Uddin, 126–39. ADCE Libraries. doi:10.1061/9780784410813.ch11.
+
+Brinkman, Jan Jaap, and Marco Hartman. 2008. “Jakarta Flood Hazard Mapping Framework.”World Bank. (unpublished). http://www.hkv.nl/documenten/Jakarta_Flood_Hazard_Mapping_Framework_MH.pdf.
+
+Cardona, O. D., M. G. Ordaz, E. Reinoso, L. E. Yamin, and A. H. Barbat. 2012. “CAPRA–Comprehensive Approach to Probabilistic Risk Assessment: International Initiative for Risk Management Effectiveness.” Proceedings of the 15th World Conference on Earthquake Engineering. Lisbon, Portugal. http://www.iitk.ac.in/nicee/wcee/article/WCEE2012_0726.pdf.
+
+Chapman, K. 2012. “Community Mapping for Exposure in Indonesia.” Humanitarian OpenStreetMap Team. http://hot.openstreetmap.org/sites/default/files/CM4E-Indo-en.pdf.
+
+Chen, Keping, John McAneney, Russell Blong, Roy Leigh, Laraine Hunter, and Christina Magill. 2004. “Defining Area at Risk and Its Effect in Catastrophe Loss Estimation: A Dasymetric Mapping Approach.” Applied Geography 24 (2): 97–117.
+
+Coburn, A., and R. Spence. 2002. Earthquake Protection. Chichester, UK: Wiley.
+
+Coburn A. W., R. J. S. Spence, and A. Pomonis. 1992. “Factors Determining Human Casualty Levels in Earthquakes: Mortality Prediction in Building Collapse.” Proceedings of the First International Forum on Earthquake-Related Casualties. Madrid, Spain.
+
+Daniell, James. 2014. Review of Open Source and Open Access Software Packages Available to Quantify Risk from Natural Hazards. Washington, DC: World Bank and Global Facility for Disaster Reduction and Recovery.
+
+Daniell, J. E. 2009. “Open Source Procedure for Assessment of Loss Using Global Earthquake Modelling (OPAL Project).” CEDIM Earthquake Loss Estimation Series, Research Report No. 09-01. CEDIM. Karlsruhe, Germany.
+
+De Bono, A. 2013. “The Global Exposure Database for GAR 2013.” Background paper prepared for the 2013 Global Assessment Report on Disaster Risk Reduction, UNISDR, Geneva. www.preventionweb.net/gar.
+
+Dell’Acqua, F., P. Gamba, and K. Jaiswal. 2012. “Spatial Aspects of Building and Population Exposure Data and Their Implications for Global Earthquake Exposure Modeling.” Natural Hazards 68: 1291–1309.
+
+Dilley, M. 2005. Natural Disaster Hotspots: A Global Risk Analysis. Washington, DC: World Bank.
+
+Ehrlich, D., and P. Tenerelli. 2013. “Optical Satellite Imagery for Quantifying Spatio-temporal Dimension of Physical Exposure in Disaster Risk Assessments.” Natural Hazards 68 (3): 1271–89.
+
+Elsner, J. B., and T. H. Jagger. 2006. “Prediction Models for Annual U.S. Hurricane Counts.” Journal of Climate 19: 2935–52.
+
+Esch, T., M. Thiel, A. Schenk, A. Roth, A. Müller, and S. Dech. 2010. “Delineation of Urban Footprints from TerraSAR-X Data by Analyzing Speckle Characteristics and Intensity Information.” IEEE Transactions on Geoscience and Remote Sensing 48: 900–916.
+
+European Commission. 2010. “Risk Assessment and Mapping Guidelines for Disaster Management.” Commission Staff Working Paper, SEC(2010) 1626 final, European Commission, Brussels, Belgium.
+
+FEMA (Federal Emergency Management Agency). 2002. Rapid Visual Screening of Buildings for Potential Seismic Hazards: A Handbook. FEMA 154. 2nd ed. https://www.fema.gov/media-library/assets/documents/15212.
+
+Flay, S., and J. Nott. 2007. “Effect of ENSO on Queensland Seasonal Landfalling Tropical Cyclone Activity.” International Journal of Climatology 27: 1327–34. doi:10.1002/joc.1447.
+
+Geiß, C., and H. Taubenböck. 2013. “Remote Sensing Contributing to Assess Earthquake Risk: From a Literature Review towards a Roadmap.” Natural Hazards 68 (1): 1–42.
+
+GFDRR (Global Facility for Disaster Reduction and Recovery). 2011. “World Bank Distance Learning Natural Disaster Risk Management Program.” World Bank and GFDRR. https://www.gfdrr.org/sites/gfdrr.org/files/publication/WB_Risk_Analysis.pdf.
+
+Griffin, J. G., H. Latief, W. Kongko, S. Harig, N. Horspool, R. Hanung, A. Rojali, N. Maher, L. Fountain, A. Fuchs, J. Hossen, S. Upi, S. E. Dewanto, and P. R. Cummins. 2012. “An Evaluation of Onshore Digital Elevation Models for Tsunami Inundation Modelling.” American 
+
+Geophysical Union Fall Meeting Abstracts. http://fallmeeting.agu.org/2012/files/2012/12/Griffin-et-al-AGU-2012-NH21C-1598.pdf.
+
+Gunasekera, R., O. A. Ishizawa, C. Aubrecht, G. Pita, A. Pomonis, K. Fane, S. Murray, and B. Blankespoor. 2014. “Developing an Adaptive Exposure Model to Support the Generation of Country Disaster Risk Profiles.” Geophysical Research Abstracts 16: EGU2014-16168.
+
+Haraguchi, Masahiko, and Upmanu Lall. 2013. “Flood Risks and Impacts: Future Research Questions and Implication to Private Investment Decision-Making for Supply Chain Networks.” Background Paper prepared for the 2013 Global Assessment Report on Disaster Risk Reduction, UNISDR, Geneva.
+
+IPCC (Intergovernmental Panel on Climate Change). 2012. Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A special report of Working Groups I and II of the Intergovernmental Panel on Climate Change. Cambridge and New York: Cambridge University Press. 
+
+Jaiswal, K. S., and D. J. Wald. 2010a. “Development of a Semi-empirical Loss Model within the USGS Prompt Assessment of Global Earthquakes for Response (PAGER) System.” Proceedings of 9th US and 10th Canadian Conference on Earthquake Engineering: Reaching Beyond Borders. Ottawa, Canada. 
+
+Jaiswal, Kishor, and David Wald. 2010b. “An Empirical Model for Global Earthquake Fatality Estimation.” Earthquake Spectra 26 (4): 1017–37.
+
+Jaiswal, K. S., D. J. Wald, and K. A. Porter. 2010. “A Global Building Inventory for Earthquake Loss Estimation and Risk Management.” Earthquake Spectra 26 (3): 731–48.
+
+Lavakare, Ajay, and Kenna Mawk. 2008. “Exposure Data Quality.” In The Review: A Guide to Catastrophe Modelling, 12–14.  London: Informa. http://static.rms.com/email/documents/liferisks/collateral/a-guide-to-catastrophe-modeling-the-review.pdf.
+
+Lu, X., E. Wetter, N. Bharti, A. J. Tatem, and L. Bengtsson. 2013. “Approaching the Limit of Predictability in Human Mobility.” Nature Scientific Reports 3: Article no. 2923. doi:10.1038/srep02923.
+
+Martin-Ortega, J., and A. Markandya. 2009. “The Costs of Drought: The Exceptional 2007–2008 Case of Barcelona.” Basque Centre for Climate Change, Bilbao, Spain.
+
+McLaren, T. 2008. “MAEVIZ.” Presentation at EclipseCON, Santa Clara, CA, March 17–20.
+
+Mondal, P., and A. J. Tatem. 2012. “Uncertainties in Measuring Populations Potentially Impacted by Sea Level Rise and Coastal Flooding.” PloS ONE. doi:10.1371/journal.pone.0048191.
+
+Müller, A., J. Reiter, and U. Weiland. 2011. “Assessment of Urban Vulnerability towards Floods Using an Indicator-based Approach: A Case Study for Santiago de Chile.” Natural Hazards and Earth System Science 11: 2107–23.
+
+Peduzzi, P., H. Dao, C. Herold, and F. Mouton. 2009. “Assessing Global Exposure and Vulnerability towards Natural Hazards: The Disaster Risk Index.” Natural Hazards and Earth System Science 9: 1149–59. 
+
+Pesaresi, M., and M. Halkia. 2012. Global Human Settlement Layer Urban Atlas Integration: Feasibility Report. Luxembourg: Joint Research Centre European Union.
+
+Pittore, M., and M. Wieland. 2013. “Toward a Rapid Probabilistic Seismic Vulnerability Assessment Using Satellite and Ground-based Remote Sensing.” Natural Hazards 68: 1–31.
+
+Potere, D., A. Schneider, S. Angel, and D. Civco. 2009. “Mapping Urban Areas on a Global Scale: Which of the Eight Maps Now Available Is More Accurate?” International Journal of Remote Sensing 30: 6531–58.
+
+Scawthorn, C. 1997. “Fires Following the Northridge and Kobe Earthquakes.” In Thirteenth Meeting of the UJNR Panel on Fire Research and Safety, March 13-20, 1996, vol. 2, edited by K. A. Beall, 325–35. NISTIR 6030. National Institute of Standards and Technology.
+
+Spence, Robin, Julian Bommer, Domenico Del Re, Juliet Bird, Nuray Aydinog Lu, and Shigeko Tabuchi. 2003. “Comparing Loss Estimation with Observed Damage: A Study of the 1999 Kocaeli Earthquake in Turkey.” Bulletin of Earthquake Engineering 1: 83–113.
+
+Taubenböck, H., T. Esch, A. Felbier, M. Wiesner, A. Roth, and S. Dech, S. 2012. “Monitoring Urbanization in Mega Cities from Space.” Remote Sensing of Environment 117: 162–76.
+
+Trésor-Economics. 2012. “The Impact of Japan's Earthquake on the Global Economy.” No. 100. April. http://www.tresor.economie.gouv.fr/File/371985.
+
+Tsuji, Y., H. Matsutomi, F. Imamura, M. Takeo, Y. Kawata, M. Matsuyama, T. Takahashi, and P. Harjadi. 1995. “Damage to Coastal Villages Due to the 1992 Flores Island Earthquake Tsunami.” Pure and Applied Geophysics 144 (3): 481–524.
+
+UNDP (United Nations Development Programme). 2013. “A Comparative Review of Country-level and Regional Disaster Loss and Damage Databases.” Bureau for Crisis Prevention and Recovery, UNDP. http://www.undp.org/content/undp/en/home/librarypage/crisis-prevention-and-recovery/loss-and-damage-database/.
+
+UNISDR (United Nations Office for Disaster Risk Reduction). 2009. UNISDR Terminology on Disaster Risk Reduction. Geneva: UNISDR. http://www.preventionweb.net/files/7817_UNISDRTerminologyEnglish.pdf.
+———. 2012. “Towards a Post-2015 Framework for Disaster Risk Reduction.” http://www.unisdr.org/we/inform/publications/25129.
+
+UN (United Nations) Statistical Division. 2008. Principles and Recommendations for Population and Housing Censuses. New York: United Nations Publications.
+
+Van Westen, C. J. 2012. “Remote Sensing and GIS for Natural Hazards Assessment and Disaster Risk Management.” In Application of Space Technology for Disaster Risk Reduction: International Training Course Lecture Notes, 307–75. Dehradun, India: Indian Institute of Remote Sensing and Centre for Space Science and Technology Education in Asia and the Pacific.
+
+Wald, D. J., P. S. Earle, T. I. Allen, K. Jaiswal, K. Porter, and M. Hearne. 2008. “Development of the US Geological Survey’s PAGER System (Prompt Assessment of Global Earthquakes for Response).” Proceedings of the 14th World Conference on Earthquake Engineering. Beijing, China.
+
+Wesolowski, A., C. O. Buckee, D. K. Pindolia, N. Eagle, D. L. Smith, A. J. Garcia, and A. J. Tatem. 2013. “The Use of Census Migration Data to Approximate Human Movement Patterns across Temporal Scales.” PLoS ONE. doi:10.1371/journal.pone.0052971.
+
+World Bank. 2012a. Bangladesh: Towards Accelerated, Inclusive, and Sustainable Growth—Opportunities and Challenges. Vol. 2. Washington, DC: Poverty Reduction and Economic Management Sector Unit, South Asia Region, World Bank. 
+
+———. 2012b. “Thai Flood 2011: Rapid Assessment for Resilient Recovery and Reconstruction Planning.” World Bank, Washington, DC.
+Wu, M. C., W. L. Chang, and W. M. Leung. 2004. “Impacts of El Niño–Southern Oscillation Events on Tropical Cyclone Landfalling Activity in the Western North Pacific.” Journal of Climate 17: 1419–28. doi:http://dx.doi.org/10.1175/1520-0442(2004)017<1419:IOENOE>2.0.CO;2.
+Wyss, M., S. Tolis, P. Rosset, and F. Pacchiani. 2013. “Approximate Model for Worldwide Building Stock in Three Size Categories of Settlements.” Background paper prepared for the 2013 Global Assessment Report on Disaster Risk Reduction, UNISDR, Geneva.
